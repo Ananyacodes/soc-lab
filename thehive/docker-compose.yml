@@ -1,0 +1,17 @@
+services:
+  elasticsearch:
+    image: elasticsearch:7.17.17
+    container_name: thehive-elasticsearch
+    restart: unless-stopped
+    environment:
+      - discovery.type=single-node
+      - ES_JAVA_OPTS=-Xms1g -Xmx1g
+
+  thehive:
+    image: strangebee/thehive:5.2
+    container_name: thehive
+    restart: unless-stopped
+    ports:
+      - "9000:9000"
+    depends_on:
+      - elasticsearch
