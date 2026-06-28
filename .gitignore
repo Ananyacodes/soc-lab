@@ -1,0 +1,21 @@
+# Docker volumes / data
+volumes/
+data/
+
+# Wazuh certs and keys
+*.pem
+*.key
+*.crt
+config/wazuh_cluster/wazuh_manager.conf
+
+# TheHive secrets
+*.secret
+application.conf
+
+# Env files with creds
+.env
+*.env
+
+# OS stuff
+.DS_Store
+Thumbs.db
