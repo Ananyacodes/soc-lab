@@ -1,21 +1,19 @@
-# Docker volumes / data
-volumes/
-data/
+# Big directories
+wazuh-docker/
+volatility3/
+volatility/
+velociraptor/velociraptor-*
+*.vmem
+*.msi
+*.zip
 
-# Wazuh certs and keys
-*.pem
-*.key
-*.crt
-config/wazuh_cluster/wazuh_manager.conf
-
-# TheHive secrets
-*.secret
-application.conf
-
-# Env files with creds
+# Docker
+docker-compose.override.yml
+*.log
+__pycache__/
+.cache/
 .env
-*.env
 
-# OS stuff
-.DS_Store
-Thumbs.db
+# Temporary
+*.tmp
+par.txt*
