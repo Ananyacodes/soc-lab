@@ -17,3 +17,4 @@ __pycache__/
 # Temporary
 *.tmp
 par.txt*
+velociraptor/*.config.yaml
