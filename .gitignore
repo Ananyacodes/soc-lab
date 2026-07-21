@@ -17,3 +17,11 @@ __pycache__/
 # Temporary
 *.tmp
 par.txt*
+velociraptor/*.config.yaml
+# Prevent Windows path artifacts and local database dumps
+"velociraptor/C:\\Windows\\Temp/"
+velociraptor/data/
+velociraptor/*.old
+# Block compiled binaries and specific installers
+velociraptor/velociraptor
+velociraptor/velociraptor-*.msi
