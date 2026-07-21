@@ -18,3 +18,7 @@ __pycache__/
 *.tmp
 par.txt*
 velociraptor/*.config.yaml
+# Prevent Windows path artifacts and local database dumps
+"velociraptor/C:\\Windows\\Temp/"
+velociraptor/data/
+velociraptor/*.old
