@@ -1,6 +1,0 @@
-{"level": "info", "msg": "Starting...", "time": "2026-06-28T21:54:39.545045398Z"}
-{"level": "info", "msg": "Starting...", "time": "2026-06-28T21:54:40.142797567Z"}
-{"level": "info", "msg": "Starting...", "time": "2026-06-28T21:54:40.156270838Z"}
-{"details":{"user":"admin"},"level":"info","msg":"Granting administrator role, because user is specified in the config's initial users","operation":"Granting administrator role, because user is specified in the config's initial users","principal":"SanityService","time":"2026-06-28T21:54:40Z"}
-{"details":{"user":"witch"},"level":"info","msg":"Granting administrator role, because user is specified in the config's initial users","operation":"Granting administrator role, because user is specified in the config's initial users","principal":"SanityService","time":"2026-06-28T21:54:40Z"}
-{"details":{"client":"server","flow_id":"F.D90PHTTK1B060","details":{"creator":"witch","client_id":"server","flow_id":"F.D90PHTTK1B060","artifacts":["Server.Utils.CreateMSI"],"specs":[{"artifact":"Server.Utils.CreateMSI","parameters":{}}],"max_upload_bytes":1073741824}},"level":"info","msg":"ScheduleFlow","operation":"ScheduleFlow","principal":"witch","time":"2026-06-28T21:58:15Z"}

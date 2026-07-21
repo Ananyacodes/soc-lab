@@ -1,6 +1,0 @@
-{"Timestamp":1782683895574895,"Level":"DEFAULT","message":"Running query Server.Utils.CreateMSI on behalf of user witch\n"}
-{"Timestamp":1782683895574944,"Level":"DEFAULT","message":"\u003cgreen\u003eStarting\u003c/\u003e query Server.Utils.CreateMSI execution.\n"}
-{"Timestamp":1782683900954608,"Level":"DEFAULT","message":"client_repack: Will Repack an MSI file with 2685 bytes of config\n"}
-{"Timestamp":1782683900960530,"Level":"DEBUG","message":"client_repack: Copying page 0 from 0x0 to 0x5000-\u003e0x6000 in MSI\n"}
-{"Timestamp":1782683901750619,"Level":"DEFAULT","message":"Uploaded /Org_\u003croot\u003e_velociraptor-v0.77.1-windows-amd64.msi (27475968 bytes)\n"}
-{"Timestamp":1782683901770096,"Level":"DEBUG","message":"Query Stats: {\"RowsScanned\":3,\"PluginsCalled\":3,\"FunctionsCalled\":14,\"ProtocolSearch\":3,\"ScopeCopy\":13}\n"}
