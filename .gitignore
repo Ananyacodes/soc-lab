@@ -22,3 +22,6 @@ velociraptor/*.config.yaml
 "velociraptor/C:\\Windows\\Temp/"
 velociraptor/data/
 velociraptor/*.old
+# Block compiled binaries and specific installers
+velociraptor/velociraptor
+velociraptor/velociraptor-*.msi
