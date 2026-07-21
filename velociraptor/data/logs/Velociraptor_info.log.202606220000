@@ -1,0 +1,54 @@
+{"level": "info", "msg": "Starting...", "time": "2026-06-28T21:54:39.538241194Z"}
+{"level": "info", "msg": "Starting...", "time": "2026-06-28T21:54:39.542786296Z"}
+{"level":"info","msg":"<green> _    __     __           _                  __","time":"2026-06-28T21:54:39Z"}
+{"level":"info","msg":"<green>| |  / /__  / /___  _____(_)________ _____  / /_____  _____","time":"2026-06-28T21:54:39Z"}
+{"level":"info","msg":"<green>| | / / _ \\/ / __ \\/ ___/ / ___/ __ `/ __ \\/ __/ __ \\/ ___/","time":"2026-06-28T21:54:39Z"}
+{"level":"info","msg":"<green>| |/ /  __/ / /_/ / /__/ / /  / /_/ / /_/ / /_/ /_/ / /","time":"2026-06-28T21:54:39Z"}
+{"level":"info","msg":"<green>|___/\\___/_/\\____/\\___/_/_/   \\__,_/ .___/\\__/\\____/_/","time":"2026-06-28T21:54:39Z"}
+{"level":"info","msg":"<green>                                  /_/","time":"2026-06-28T21:54:39Z"}
+{"level":"info","msg":"<red>Digging deeper!                  <cyan>https://www.velocidex.com","time":"2026-06-28T21:54:39Z"}
+{"level":"info","msg":"<yellow>This is Velociraptor 0.77.1 built on 2026-06-22T15:32:15Z (3137c7f71)","time":"2026-06-28T21:54:39Z"}
+{"level":"info","msg":"Loading config from file server.config.yaml","time":"2026-06-28T21:54:39Z"}
+{"level":"info","msg":"Initializing logging for /home/ananya/soc-lab/velociraptor/data/logs/Velociraptor\n","time":"2026-06-28T21:54:39Z"}
+{"level":"info","msg":"Initializing logging for /home/ananya/soc-lab/velociraptor/data/logs/VelociraptorFrontend\n","time":"2026-06-28T21:54:39Z"}
+{"level":"info","msg":"Initializing logging for /home/ananya/soc-lab/velociraptor/data/logs/VelociraptorClient\n","time":"2026-06-28T21:54:39Z"}
+{"level":"info","msg":"Initializing logging for /home/ananya/soc-lab/velociraptor/data/logs/VelociraptorGUI\n","time":"2026-06-28T21:54:39Z"}
+{"level":"info","msg":"Initializing logging for /home/ananya/soc-lab/velociraptor/data/logs/Velociraptor\n","time":"2026-06-28T21:54:39Z"}
+{"level":"info","msg":"Initializing logging for /home/ananya/soc-lab/velociraptor/data/logs/VelociraptorAPI\n","time":"2026-06-28T21:54:39Z"}
+{"level":"info","msg":"Initializing logging for /home/ananya/soc-lab/velociraptor/data/logs/VelociraptorAudit\n","time":"2026-06-28T21:54:39Z"}
+{"level": "info", "msg": "Starting...", "time": "2026-06-28T21:54:40.137197526Z"}
+{"level": "info", "msg": "Starting...", "time": "2026-06-28T21:54:40.140946676Z"}
+{"level":"info","msg":"<green> _    __     __           _                  __","time":"2026-06-28T21:54:40Z"}
+{"level":"info","msg":"<green>| |  / /__  / /___  _____(_)________ _____  / /_____  _____","time":"2026-06-28T21:54:40Z"}
+{"level":"info","msg":"<green>| | / / _ \\/ / __ \\/ ___/ / ___/ __ `/ __ \\/ __/ __ \\/ ___/","time":"2026-06-28T21:54:40Z"}
+{"level":"info","msg":"<green>| |/ /  __/ / /_/ / /__/ / /  / /_/ / /_/ / /_/ /_/ / /","time":"2026-06-28T21:54:40Z"}
+{"level":"info","msg":"<green>|___/\\___/_/\\____/\\___/_/_/   \\__,_/ .___/\\__/\\____/_/","time":"2026-06-28T21:54:40Z"}
+{"level":"info","msg":"<green>                                  /_/","time":"2026-06-28T21:54:40Z"}
+{"level":"info","msg":"<red>Digging deeper!                  <cyan>https://www.velocidex.com","time":"2026-06-28T21:54:40Z"}
+{"level":"info","msg":"<yellow>This is Velociraptor 0.77.1 built on 2026-06-22T15:32:15Z (3137c7f71)","time":"2026-06-28T21:54:40Z"}
+{"level":"info","msg":"Loading config from file server.config.yaml","time":"2026-06-28T21:54:40Z"}
+{"level":"info","msg":"Initializing logging for /home/ananya/soc-lab/velociraptor/data/logs/Velociraptor\n","time":"2026-06-28T21:54:40Z"}
+{"level":"info","msg":"Initializing logging for /home/ananya/soc-lab/velociraptor/data/logs/VelociraptorFrontend\n","time":"2026-06-28T21:54:40Z"}
+{"level":"info","msg":"Initializing logging for /home/ananya/soc-lab/velociraptor/data/logs/VelociraptorClient\n","time":"2026-06-28T21:54:40Z"}
+{"level":"info","msg":"Initializing logging for /home/ananya/soc-lab/velociraptor/data/logs/VelociraptorGUI\n","time":"2026-06-28T21:54:40Z"}
+{"level":"info","msg":"Initializing logging for /home/ananya/soc-lab/velociraptor/data/logs/Velociraptor\n","time":"2026-06-28T21:54:40Z"}
+{"level":"info","msg":"Initializing logging for /home/ananya/soc-lab/velociraptor/data/logs/VelociraptorAPI\n","time":"2026-06-28T21:54:40Z"}
+{"level":"info","msg":"Initializing logging for /home/ananya/soc-lab/velociraptor/data/logs/VelociraptorAudit\n","time":"2026-06-28T21:54:40Z"}
+{"level": "info", "msg": "Starting...", "time": "2026-06-28T21:54:40.150677065Z"}
+{"level": "info", "msg": "Starting...", "time": "2026-06-28T21:54:40.154414969Z"}
+{"level":"info","msg":"<green> _    __     __           _                  __","time":"2026-06-28T21:54:40Z"}
+{"level":"info","msg":"<green>| |  / /__  / /___  _____(_)________ _____  / /_____  _____","time":"2026-06-28T21:54:40Z"}
+{"level":"info","msg":"<green>| | / / _ \\/ / __ \\/ ___/ / ___/ __ `/ __ \\/ __/ __ \\/ ___/","time":"2026-06-28T21:54:40Z"}
+{"level":"info","msg":"<green>| |/ /  __/ / /_/ / /__/ / /  / /_/ / /_/ / /_/ /_/ / /","time":"2026-06-28T21:54:40Z"}
+{"level":"info","msg":"<green>|___/\\___/_/\\____/\\___/_/_/   \\__,_/ .___/\\__/\\____/_/","time":"2026-06-28T21:54:40Z"}
+{"level":"info","msg":"<green>                                  /_/","time":"2026-06-28T21:54:40Z"}
+{"level":"info","msg":"<red>Digging deeper!                  <cyan>https://www.velocidex.com","time":"2026-06-28T21:54:40Z"}
+{"level":"info","msg":"<yellow>This is Velociraptor 0.77.1 built on 2026-06-22T15:32:15Z (3137c7f71)","time":"2026-06-28T21:54:40Z"}
+{"level":"info","msg":"Loading config from file server.config.yaml","time":"2026-06-28T21:54:40Z"}
+{"level":"info","msg":"Initializing logging for /home/ananya/soc-lab/velociraptor/data/logs/Velociraptor\n","time":"2026-06-28T21:54:40Z"}
+{"level":"info","msg":"Initializing logging for /home/ananya/soc-lab/velociraptor/data/logs/VelociraptorFrontend\n","time":"2026-06-28T21:54:40Z"}
+{"level":"info","msg":"Initializing logging for /home/ananya/soc-lab/velociraptor/data/logs/VelociraptorClient\n","time":"2026-06-28T21:54:40Z"}
+{"level":"info","msg":"Initializing logging for /home/ananya/soc-lab/velociraptor/data/logs/VelociraptorGUI\n","time":"2026-06-28T21:54:40Z"}
+{"level":"info","msg":"Initializing logging for /home/ananya/soc-lab/velociraptor/data/logs/Velociraptor\n","time":"2026-06-28T21:54:40Z"}
+{"level":"info","msg":"Initializing logging for /home/ananya/soc-lab/velociraptor/data/logs/VelociraptorAPI\n","time":"2026-06-28T21:54:40Z"}
+{"level":"info","msg":"Initializing logging for /home/ananya/soc-lab/velociraptor/data/logs/VelociraptorAudit\n","time":"2026-06-28T21:54:40Z"}

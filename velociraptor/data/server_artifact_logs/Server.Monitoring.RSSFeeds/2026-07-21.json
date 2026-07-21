@@ -1,0 +1,63 @@
+{"Timestamp":"2026-07-21 14:05:56.152694149 +0000 UTC","Level":"DEFAULT","Message":"server_monitoring: Collecting \u003cgreen\u003eServer.Monitoring.RSSFeeds\u003c/\u003e\n"}
+{"Timestamp":"2026-07-21 14:05:56.167051473 +0000 UTC","Level":"DEFAULT","Message":"Fetching https://docs.velociraptor.app/blog/index.xml\n"}
+{"Timestamp":"2026-07-21 14:05:57.212913755 +0000 UTC","Level":"DEFAULT","Message":"Fetching https://docs.velociraptor.app/announcements/advisories/index.xml\n"}
+{"Timestamp":"2026-07-21 14:08:17.297729879 +0000 UTC","Level":"DEFAULT","Message":"Time 140: Server.Monitoring.RSSFeeds: Waiting for rows.\n"}
+{"Timestamp":"2026-07-21 14:10:18.853368415 +0000 UTC","Level":"DEFAULT","Message":"Time 261: Server.Monitoring.RSSFeeds: Waiting for rows.\n"}
+{"Timestamp":"2026-07-21 14:12:23.296532721 +0000 UTC","Level":"DEFAULT","Message":"Time 386: Server.Monitoring.RSSFeeds: Waiting for rows.\n"}
+{"Timestamp":"2026-07-21 14:14:20.052617015 +0000 UTC","Level":"DEFAULT","Message":"Time 502: Server.Monitoring.RSSFeeds: Waiting for rows.\n"}
+{"Timestamp":"2026-07-21 14:16:27.944654641 +0000 UTC","Level":"DEFAULT","Message":"Time 630: Server.Monitoring.RSSFeeds: Waiting for rows.\n"}
+{"Timestamp":"2026-07-21 14:16:52.356952463 +0000 UTC","Level":"DEFAULT","Message":"Fetching https://docs.velociraptor.app/blog/index.xml\n"}
+{"Timestamp":"2026-07-21 14:16:53.967319097 +0000 UTC","Level":"DEFAULT","Message":"Fetching https://docs.velociraptor.app/announcements/advisories/index.xml\n"}
+{"Timestamp":"2026-07-21 14:18:29.230183393 +0000 UTC","Level":"DEFAULT","Message":"Time 751: Server.Monitoring.RSSFeeds: Waiting for rows.\n"}
+{"Timestamp":"2026-07-21 14:20:44.262635337 +0000 UTC","Level":"DEFAULT","Message":"Time 887: Server.Monitoring.RSSFeeds: Waiting for rows.\n"}
+{"Timestamp":"2026-07-21 14:23:06.710464103 +0000 UTC","Level":"DEFAULT","Message":"Time 1029: Server.Monitoring.RSSFeeds: Waiting for rows.\n"}
+{"Timestamp":"2026-07-21 14:25:18.372289434 +0000 UTC","Level":"DEFAULT","Message":"Time 1161: Server.Monitoring.RSSFeeds: Waiting for rows.\n"}
+{"Timestamp":"2026-07-21 14:26:53.743904189 +0000 UTC","Level":"DEFAULT","Message":"server_monitoring: Collecting \u003cgreen\u003eServer.Monitoring.RSSFeeds\u003c/\u003e\n"}
+{"Timestamp":"2026-07-21 14:26:53.752881079 +0000 UTC","Level":"DEFAULT","Message":"Fetching https://docs.velociraptor.app/blog/index.xml\n"}
+{"Timestamp":"2026-07-21 14:26:53.78294799 +0000 UTC","Level":"DEFAULT","Message":"Fetching https://docs.velociraptor.app/announcements/advisories/index.xml\n"}
+{"Timestamp":"2026-07-21 14:26:53.783847281 +0000 UTC","Level":"DEFAULT","Message":"http_client: Error Get \"https://docs.velociraptor.app/blog/index.xml\": context canceled while fetching https://docs.velociraptor.app/blog/index.xml\n"}
+{"Timestamp":"2026-07-21 14:26:53.784243075 +0000 UTC","Level":"DEFAULT","Message":"http_client: Error Get \"https://docs.velociraptor.app/announcements/advisories/index.xml\": context canceled while fetching https://docs.velociraptor.app/announcements/advisories/index.xml\n"}
+{"Timestamp":"2026-07-21 14:26:53.788049405 +0000 UTC","Level":"DEFAULT","Message":"server_monitoring: Finished collecting Server.Monitoring.RSSFeeds\n"}
+{"Timestamp":"2026-07-21 14:26:53.788384823 +0000 UTC","Level":"DEBUG","Message":"Query Stats: {\"RowsScanned\":5,\"PluginsCalled\":9,\"FunctionsCalled\":4,\"ProtocolSearch\":0,\"ScopeCopy\":15}\n"}
+{"Timestamp":"2026-07-21 14:27:05.929527374 +0000 UTC","Level":"DEFAULT","Message":"server_monitoring: Collecting \u003cgreen\u003eServer.Monitoring.RSSFeeds\u003c/\u003e\n"}
+{"Timestamp":"2026-07-21 14:27:05.935467358 +0000 UTC","Level":"DEFAULT","Message":"Fetching https://docs.velociraptor.app/blog/index.xml\n"}
+{"Timestamp":"2026-07-21 14:27:05.941246721 +0000 UTC","Level":"DEFAULT","Message":"http_client: Error Get \"https://docs.velociraptor.app/blog/index.xml\": context canceled while fetching https://docs.velociraptor.app/blog/index.xml\n"}
+{"Timestamp":"2026-07-21 14:27:05.947007546 +0000 UTC","Level":"DEFAULT","Message":"server_monitoring: Finished collecting Server.Monitoring.RSSFeeds\n"}
+{"Timestamp":"2026-07-21 14:27:05.947467169 +0000 UTC","Level":"DEBUG","Message":"Query Stats: {\"RowsScanned\":5,\"PluginsCalled\":9,\"FunctionsCalled\":4,\"ProtocolSearch\":0,\"ScopeCopy\":15}\n"}
+{"Timestamp":"2026-07-21 14:27:37.224332224 +0000 UTC","Level":"DEFAULT","Message":"Time 1299: Server.Monitoring.RSSFeeds: Waiting for rows.\n"}
+{"Timestamp":"2026-07-21 14:27:44.415005149 +0000 UTC","Level":"DEFAULT","Message":"Fetching https://docs.velociraptor.app/blog/index.xml\n"}
+{"Timestamp":"2026-07-21 14:27:44.602583444 +0000 UTC","Level":"DEFAULT","Message":"Fetching https://docs.velociraptor.app/announcements/advisories/index.xml\n"}
+{"Timestamp":"2026-07-21 14:28:22.988862192 +0000 UTC","Level":"DEFAULT","Message":"server_monitoring: Collecting \u003cgreen\u003eServer.Monitoring.RSSFeeds\u003c/\u003e\n"}
+{"Timestamp":"2026-07-21 14:28:22.999322036 +0000 UTC","Level":"DEFAULT","Message":"Fetching https://docs.velociraptor.app/blog/index.xml\n"}
+{"Timestamp":"2026-07-21 14:28:23.00918763 +0000 UTC","Level":"DEFAULT","Message":"http_client: Error Get \"https://docs.velociraptor.app/blog/index.xml\": context canceled while fetching https://docs.velociraptor.app/blog/index.xml\n"}
+{"Timestamp":"2026-07-21 14:28:23.015784293 +0000 UTC","Level":"DEFAULT","Message":"server_monitoring: Finished collecting Server.Monitoring.RSSFeeds\n"}
+{"Timestamp":"2026-07-21 14:28:23.016119518 +0000 UTC","Level":"DEBUG","Message":"Query Stats: {\"RowsScanned\":4,\"PluginsCalled\":9,\"FunctionsCalled\":4,\"ProtocolSearch\":0,\"ScopeCopy\":15}\n"}
+{"Timestamp":"2026-07-21 14:28:38.966837494 +0000 UTC","Level":"DEFAULT","Message":"server_monitoring: Collecting \u003cgreen\u003eServer.Monitoring.RSSFeeds\u003c/\u003e\n"}
+{"Timestamp":"2026-07-21 14:28:38.972837511 +0000 UTC","Level":"DEFAULT","Message":"Fetching https://docs.velociraptor.app/blog/index.xml\n"}
+{"Timestamp":"2026-07-21 14:28:38.979387207 +0000 UTC","Level":"DEFAULT","Message":"server_monitoring: Finished collecting Server.Monitoring.RSSFeeds\n"}
+{"Timestamp":"2026-07-21 14:28:38.97973152 +0000 UTC","Level":"DEBUG","Message":"Query Stats: {\"RowsScanned\":4,\"PluginsCalled\":7,\"FunctionsCalled\":4,\"ProtocolSearch\":0,\"ScopeCopy\":14}\n"}
+{"Timestamp":"2026-07-21 14:28:38.981316528 +0000 UTC","Level":"DEFAULT","Message":"http_client: Error Get \"https://docs.velociraptor.app/blog/index.xml\": context canceled while fetching https://docs.velociraptor.app/blog/index.xml\n"}
+{"Timestamp":"2026-07-21 14:29:37.568412619 +0000 UTC","Level":"DEFAULT","Message":"Time 1420: Server.Monitoring.RSSFeeds: Waiting for rows.\n"}
+{"Timestamp":"2026-07-21 14:31:43.211544772 +0000 UTC","Level":"DEFAULT","Message":"Time 1545: Server.Monitoring.RSSFeeds: Waiting for rows.\n"}
+{"Timestamp":"2026-07-21 14:33:43.570838388 +0000 UTC","Level":"DEFAULT","Message":"Time 1666: Server.Monitoring.RSSFeeds: Waiting for rows.\n"}
+{"Timestamp":"2026-07-21 14:35:44.885604337 +0000 UTC","Level":"DEFAULT","Message":"Time 1787: Server.Monitoring.RSSFeeds: Waiting for rows.\n"}
+{"Timestamp":"2026-07-21 14:37:18.944788784 +0000 UTC","Level":"DEFAULT","Message":"server_monitoring: Finished collecting Server.Monitoring.RSSFeeds\n"}
+{"Timestamp":"2026-07-21 14:37:18.945166853 +0000 UTC","Level":"DEBUG","Message":"Query Stats: {\"RowsScanned\":378,\"PluginsCalled\":28,\"FunctionsCalled\":718,\"ProtocolSearch\":9220,\"ScopeCopy\":1143}\n"}
+{"Timestamp":"2026-07-21 14:38:51.899309183 +0000 UTC","Level":"DEFAULT","Message":"server_monitoring: Collecting \u003cgreen\u003eServer.Monitoring.RSSFeeds\u003c/\u003e\n"}
+{"Timestamp":"2026-07-21 14:38:51.905316447 +0000 UTC","Level":"DEFAULT","Message":"Fetching https://docs.velociraptor.app/blog/index.xml\n"}
+{"Timestamp":"2026-07-21 14:38:52.254317076 +0000 UTC","Level":"DEFAULT","Message":"Fetching https://docs.velociraptor.app/announcements/advisories/index.xml\n"}
+{"Timestamp":"2026-07-21 14:41:07.914435685 +0000 UTC","Level":"DEFAULT","Message":"Time 135: Server.Monitoring.RSSFeeds: Waiting for rows.\n"}
+{"Timestamp":"2026-07-21 14:43:28.962700349 +0000 UTC","Level":"DEFAULT","Message":"Time 276: Server.Monitoring.RSSFeeds: Waiting for rows.\n"}
+{"Timestamp":"2026-07-21 14:45:49.029461105 +0000 UTC","Level":"DEFAULT","Message":"Time 416: Server.Monitoring.RSSFeeds: Waiting for rows.\n"}
+{"Timestamp":"2026-07-21 14:47:54.162961149 +0000 UTC","Level":"DEFAULT","Message":"Time 541: Server.Monitoring.RSSFeeds: Waiting for rows.\n"}
+{"Timestamp":"2026-07-21 14:49:43.695785907 +0000 UTC","Level":"DEFAULT","Message":"Fetching https://docs.velociraptor.app/blog/index.xml\n"}
+{"Timestamp":"2026-07-21 14:49:44.18096035 +0000 UTC","Level":"DEFAULT","Message":"Fetching https://docs.velociraptor.app/announcements/advisories/index.xml\n"}
+{"Timestamp":"2026-07-21 14:50:03.415431148 +0000 UTC","Level":"DEFAULT","Message":"Time 671: Server.Monitoring.RSSFeeds: Waiting for rows.\n"}
+{"Timestamp":"2026-07-21 14:52:19.874692829 +0000 UTC","Level":"DEFAULT","Message":"Time 807: Server.Monitoring.RSSFeeds: Waiting for rows.\n"}
+{"Timestamp":"2026-07-21 14:54:28.614084509 +0000 UTC","Level":"DEFAULT","Message":"Time 936: Server.Monitoring.RSSFeeds: Waiting for rows.\n"}
+{"Timestamp":"2026-07-21 14:56:42.663723712 +0000 UTC","Level":"DEFAULT","Message":"Time 1070: Server.Monitoring.RSSFeeds: Waiting for rows.\n"}
+{"Timestamp":"2026-07-21 14:58:49.523524314 +0000 UTC","Level":"DEFAULT","Message":"Time 1197: Server.Monitoring.RSSFeeds: Waiting for rows.\n"}
+{"Timestamp":"2026-07-21 15:00:38.550025897 +0000 UTC","Level":"DEFAULT","Message":"Fetching https://docs.velociraptor.app/blog/index.xml\n"}
+{"Timestamp":"2026-07-21 15:00:39.189935345 +0000 UTC","Level":"DEFAULT","Message":"Fetching https://docs.velociraptor.app/announcements/advisories/index.xml\n"}
+{"Timestamp":"2026-07-21 15:01:11.21788295 +0000 UTC","Level":"DEFAULT","Message":"Time 1338: Server.Monitoring.RSSFeeds: Waiting for rows.\n"}
+{"Timestamp":"2026-07-21 15:03:08.455881798 +0000 UTC","Level":"DEFAULT","Message":"Time 1456: Server.Monitoring.RSSFeeds: Waiting for rows.\n"}

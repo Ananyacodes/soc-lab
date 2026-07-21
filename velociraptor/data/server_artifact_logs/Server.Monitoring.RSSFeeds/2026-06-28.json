@@ -1,0 +1,12 @@
+{"Timestamp":"2026-06-28 21:54:40.697374295 +0000 UTC","Level":"DEFAULT","Message":"server_monitoring: Collecting \u003cgreen\u003eServer.Monitoring.RSSFeeds\u003c/\u003e\n"}
+{"Timestamp":"2026-06-28 21:54:40.714823612 +0000 UTC","Level":"DEFAULT","Message":"Fetching https://docs.velociraptor.app/blog/index.xml\n"}
+{"Timestamp":"2026-06-28 21:54:41.29752622 +0000 UTC","Level":"DEFAULT","Message":"Fetching https://docs.velociraptor.app/announcements/advisories/index.xml\n"}
+{"Timestamp":"2026-06-28 21:56:44.273374574 +0000 UTC","Level":"DEFAULT","Message":"Time 122: Server.Monitoring.RSSFeeds: Waiting for rows.\n"}
+{"Timestamp":"2026-06-28 21:58:36.736505796 +0000 UTC","Level":"DEFAULT","Message":"Time 235: Server.Monitoring.RSSFeeds: Waiting for rows.\n"}
+{"Timestamp":"2026-06-28 22:00:23.528498083 +0000 UTC","Level":"DEFAULT","Message":"Time 342: Server.Monitoring.RSSFeeds: Waiting for rows.\n"}
+{"Timestamp":"2026-06-28 22:02:13.596335267 +0000 UTC","Level":"DEFAULT","Message":"Time 452: Server.Monitoring.RSSFeeds: Waiting for rows.\n"}
+{"Timestamp":"2026-06-28 22:04:09.705356434 +0000 UTC","Level":"DEFAULT","Message":"Fetching https://docs.velociraptor.app/blog/index.xml\n"}
+{"Timestamp":"2026-06-28 22:04:09.716088367 +0000 UTC","Level":"DEFAULT","Message":"Time 568: Server.Monitoring.RSSFeeds: Waiting for rows.\n"}
+{"Timestamp":"2026-06-28 22:04:10.101078282 +0000 UTC","Level":"DEFAULT","Message":"Fetching https://docs.velociraptor.app/announcements/advisories/index.xml\n"}
+{"Timestamp":"2026-06-28 22:05:07.183283141 +0000 UTC","Level":"DEFAULT","Message":"server_monitoring: Finished collecting Server.Monitoring.RSSFeeds\n"}
+{"Timestamp":"2026-06-28 22:05:07.183715638 +0000 UTC","Level":"DEBUG","Message":"Query Stats: {\"RowsScanned\":253,\"PluginsCalled\":20,\"FunctionsCalled\":480,\"ProtocolSearch\":6044,\"ScopeCopy\":764}\n"}

@@ -1,0 +1,447 @@
+{"level": "info", "msg": "Starting...", "time": "2026-07-21T14:05:54.905005371Z"}
+{"level": "info", "msg": "Starting...", "time": "2026-07-21T14:05:55.552401485Z"}
+{"level": "info", "msg": "Starting...", "time": "2026-07-21T14:05:55.563678548Z"}
+{"build_time":"2026-06-22T15:32:15Z","commit":"3137c7f71","level":"info","msg":"<green>Starting</> Frontend.","time":"2026-07-21T14:05:55Z","version":"0.77.1"}
+{"level":"info","msg":"Increased open file limit to 999999","time":"2026-07-21T14:05:55Z"}
+{"level":"info","msg":"<green>Starting</> Org Manager service.","time":"2026-07-21T14:05:55Z"}
+{"level":"info","msg":"Starting services for Org <root> (root)","time":"2026-07-21T14:05:55Z"}
+{"level":"info","msg":"<green>Frontend:</> Server will be master.","time":"2026-07-21T14:05:55Z"}
+{"level":"info","msg":"<green>Filestore implementation</> FileBaseDataStore.","time":"2026-07-21T14:05:55Z"}
+{"level":"info","msg":"Starting <green>Backup Services</> for Org <root> (root) every 24h0m0s","time":"2026-07-21T14:05:55Z"}
+{"level":"info","msg":"<green>Starting</> Journal service for Org <root> (root).","time":"2026-07-21T14:05:55Z"}
+{"level":"info","msg":"<green>Starting</> user manager service for org root","time":"2026-07-21T14:05:55Z"}
+{"level":"info","msg":"UserManagerService: Watching for events from Server.Internal.UserManager","time":"2026-07-21T14:05:55Z"}
+{"level":"info","msg":"Starting Server Scheduler Service","time":"2026-07-21T14:05:55Z"}
+{"level":"info","msg":"<green>Starting</> the notification service for Org <root> (root).","time":"2026-07-21T14:05:55Z"}
+{"level":"info","msg":"NotificationService: Watching for events from Server.Internal.Ping","time":"2026-07-21T14:05:55Z"}
+{"level":"info","msg":"NotificationService: Watching for events from Server.Internal.Pong","time":"2026-07-21T14:05:55Z"}
+{"level":"info","msg":"NotificationService: Watching for events from Server.Internal.Notifications","time":"2026-07-21T14:05:55Z"}
+{"level":"info","msg":"<green>ClientInfo Manager</> Loaded snapshot in 665.736µs for org Org <root> (root) (1 records)","time":"2026-07-21T14:05:55Z"}
+{"level":"info","msg":"<green>Starting</> Client Info service for Org <root> (root).","time":"2026-07-21T14:05:55Z"}
+{"level":"info","msg":"ClientInfoManager: Watching for events from Server.Internal.ClientTasks","time":"2026-07-21T14:05:55Z"}
+{"level":"info","msg":"ClientInfoManager: Watching for events from System.Flow.Completion","time":"2026-07-21T14:05:55Z"}
+{"level":"info","msg":"ClientInfoManager: Watching for events from Server.Internal.ClientScheduled","time":"2026-07-21T14:05:55Z"}
+{"level":"info","msg":"ClientInfoManager: Watching for events from Server.Internal.ClientPing","time":"2026-07-21T14:05:55Z"}
+{"level":"info","msg":"InventoryService: Watching for events from Server.Internal.Inventory","time":"2026-07-21T14:05:55Z"}
+{"level":"info","msg":"<green>Starting</> Inventory Service for Org <root> (root)","time":"2026-07-21T14:05:55Z"}
+{"level":"info","msg":"InventoryService: Reloading inventory from file for org root","time":"2026-07-21T14:05:55Z"}
+{"level":"info","msg":"Starting repository manager for Org <root> (root)","time":"2026-07-21T14:05:55Z"}
+{"level":"info","msg":"RepositoryManager: Watching for events from Server.Internal.ArtifactModification","time":"2026-07-21T14:05:55Z"}
+{"level":"info","msg":"Loaded 418 built in artifacts in 261.035078ms","time":"2026-07-21T14:05:56Z"}
+{"level":"info","msg":"Loaded 0 custom artifacts in 97.272µs","time":"2026-07-21T14:05:56Z"}
+{"level":"info","msg":"<green>Starting</> hunt manager service for Org <root> (root) with rate limit 30/s.","time":"2026-07-21T14:05:56Z"}
+{"level":"info","msg":"HuntManager: Watching for events from Server.Internal.HuntModification","time":"2026-07-21T14:05:56Z"}
+{"level":"info","msg":"HuntManager: Watching for events from System.Hunt.Participation","time":"2026-07-21T14:05:56Z"}
+{"level":"info","msg":"HuntManager: Watching for events from Server.Internal.Label","time":"2026-07-21T14:05:56Z"}
+{"level":"info","msg":"HuntManager: Watching for events from Server.Internal.Interrogation","time":"2026-07-21T14:05:56Z"}
+{"level":"info","msg":"HuntManager: Watching for events from System.Flow.Completion","time":"2026-07-21T14:05:56Z"}
+{"level":"info","msg":"<green>Starting</> Enrollment service for Org <root> (root).","time":"2026-07-21T14:05:56Z"}
+{"level":"info","msg":"InterrogationService for Generic.Client.Info/BasicInformation: Watching for events from System.Flow.Completion","time":"2026-07-21T14:05:56Z"}
+{"level":"info","msg":"InterrogationService for Custom.Generic.Client.Info/BasicInformation: Watching for events from System.Flow.Completion","time":"2026-07-21T14:05:56Z"}
+{"level":"info","msg":"InterrogationService: Watching for events from Server.Internal.Enrollment","time":"2026-07-21T14:05:56Z"}
+{"level":"info","msg":"HuntDispatcher: Watching for events from Server.Internal.HuntUpdate","time":"2026-07-21T14:05:56Z"}
+{"level":"info","msg":"<green>Starting</> Indexing Service for Org <root> (root). Refreshing every 5m0s","time":"2026-07-21T14:05:56Z"}
+{"level":"info","msg":"<green>Starting</> VFS writing service for Org <root> (root).","time":"2026-07-21T14:05:56Z"}
+{"level":"info","msg":"VFSService for System.VFS.ListDirectory: Watching for events from System.Flow.Completion","time":"2026-07-21T14:05:56Z"}
+{"level":"info","msg":"VFSService for System.VFS.ListDirectory/Stats: Watching for events from System.Flow.Completion","time":"2026-07-21T14:05:56Z"}
+{"level":"info","msg":"VFSService for System.VFS.DownloadFile: Watching for events from System.Flow.Completion","time":"2026-07-21T14:05:56Z"}
+{"level":"info","msg":"<green>Starting</> Hunt Dispatcher Service for Org <root> (root).","time":"2026-07-21T14:05:56Z"}
+{"level":"info","msg":"Labeler: Watching for events from Server.Internal.Label","time":"2026-07-21T14:05:56Z"}
+{"level":"info","msg":"<green>Starting</> Label service.","time":"2026-07-21T14:05:56Z"}
+{"level":"info","msg":"<green>Starting</> Server Artifact Runner Service for Org <root> (root)","time":"2026-07-21T14:05:56Z"}
+{"level":"info","msg":"NotebookWorker: <green> Connecting to master scheduler with worker local_notebook_1</>","time":"2026-07-21T14:05:56Z"}
+{"level":"info","msg":"NotebookWorker: <green> Connecting to master scheduler with worker local_notebook_4</>","time":"2026-07-21T14:05:56Z"}
+{"level":"info","msg":"NotebookWorker: <green> Connecting to master scheduler with worker local_notebook_2</>","time":"2026-07-21T14:05:56Z"}
+{"level":"info","msg":"NotebookWorker: <green> Connecting to master scheduler with worker local_notebook_0</>","time":"2026-07-21T14:05:56Z"}
+{"level":"info","msg":"<green>Starting</> Client Monitoring Service for Org <root> (root)","time":"2026-07-21T14:05:56Z"}
+{"level":"info","msg":"client_monitoring_service: Watching for events from Server.Internal.ArtifactModification","time":"2026-07-21T14:05:56Z"}
+{"level":"info","msg":"client_monitoring_service: Watching for events from Server.Internal.MetadataModifications","time":"2026-07-21T14:05:56Z"}
+{"level":"info","msg":"NotebookWorker: <green> Connecting to master scheduler with worker local_notebook_3</>","time":"2026-07-21T14:05:56Z"}
+{"level":"info","msg":"server_monitoring: <green>Starting</> Server Monitoring Service for Org <root> (root)","time":"2026-07-21T14:05:56Z"}
+{"level":"info","msg":"<green>server_monitoring</>: Updating monitoring table","time":"2026-07-21T14:05:56Z"}
+{"level":"info","msg":"server_monitoring_service: Watching for events from Server.Internal.ArtifactModification","time":"2026-07-21T14:05:56Z"}
+{"level":"info","msg":"server_monitoring_service: Watching for events from Server.Internal.MetadataModifications","time":"2026-07-21T14:05:56Z"}
+{"level":"info","msg":"Converting legacy client index to new format","time":"2026-07-21T14:05:56Z"}
+{"level":"info","msg":"CryptoServerManager: Watching for events from Server.Internal.ClientDelete","time":"2026-07-21T14:05:56Z"}
+{"level":"info","msg":"Throttling connections to 100 QPS","time":"2026-07-21T14:05:56Z"}
+{"level":"info","msg":"<green>Starting</> gRPC API server on 127.0.0.1:8001 ","time":"2026-07-21T14:05:56Z"}
+{"level":"info","msg":"Launched Prometheus monitoring server on 127.0.0.1:8003 ","time":"2026-07-21T14:05:56Z"}
+{"level":"info","msg":"Frontend is ready to handle client TLS requests at <green>https://localhost:8000/","time":"2026-07-21T14:05:56Z"}
+{"level":"info","msg":"FrontendService: Watching for events from Server.Internal.FrontendMetrics","time":"2026-07-21T14:05:56Z"}
+{"level":"info","msg":"Compiled all artifacts.","time":"2026-07-21T14:05:58Z"}
+{"level":"info","msg":"InventoryService: Reloading inventory from file for org root","time":"2026-07-21T14:17:36Z"}
+{"level": "info", "msg": "Starting...", "time": "2026-07-21T14:26:53.248574249Z"}
+{"level":"info","msg":"<green>Starting</> Org Manager service.","time":"2026-07-21T14:26:53Z"}
+{"level":"info","msg":"Starting services for Org <root> (root)","time":"2026-07-21T14:26:53Z"}
+{"level":"info","msg":"<green>Frontend:</> Server will be master.","time":"2026-07-21T14:26:53Z"}
+{"level":"info","msg":"Starting <green>Backup Services</> for Org <root> (root) every 24h0m0s","time":"2026-07-21T14:26:53Z"}
+{"level":"info","msg":"<green>Filestore implementation</> FileBaseDataStore.","time":"2026-07-21T14:26:53Z"}
+{"level":"info","msg":"<green>Starting</> Journal service for Org <root> (root).","time":"2026-07-21T14:26:53Z"}
+{"level":"info","msg":"<green>Starting</> user manager service for org root","time":"2026-07-21T14:26:53Z"}
+{"level":"info","msg":"UserManagerService: Watching for events from Server.Internal.UserManager","time":"2026-07-21T14:26:53Z"}
+{"level":"info","msg":"Starting Server Scheduler Service","time":"2026-07-21T14:26:53Z"}
+{"level":"info","msg":"<green>Starting</> the notification service for Org <root> (root).","time":"2026-07-21T14:26:53Z"}
+{"level":"info","msg":"NotificationService: Watching for events from Server.Internal.Ping","time":"2026-07-21T14:26:53Z"}
+{"level":"info","msg":"NotificationService: Watching for events from Server.Internal.Pong","time":"2026-07-21T14:26:53Z"}
+{"level":"info","msg":"NotificationService: Watching for events from Server.Internal.Notifications","time":"2026-07-21T14:26:53Z"}
+{"level":"info","msg":"<green>ClientInfo Manager</> Loaded snapshot in 175.607µs for org Org <root> (root) (1 records)","time":"2026-07-21T14:26:53Z"}
+{"level":"info","msg":"<green>Starting</> Client Info service for Org <root> (root).","time":"2026-07-21T14:26:53Z"}
+{"level":"info","msg":"ClientInfoManager: Watching for events from Server.Internal.ClientTasks","time":"2026-07-21T14:26:53Z"}
+{"level":"info","msg":"ClientInfoManager: Watching for events from System.Flow.Completion","time":"2026-07-21T14:26:53Z"}
+{"level":"info","msg":"ClientInfoManager: Watching for events from Server.Internal.ClientScheduled","time":"2026-07-21T14:26:53Z"}
+{"level":"info","msg":"ClientInfoManager: Watching for events from Server.Internal.ClientPing","time":"2026-07-21T14:26:53Z"}
+{"level":"info","msg":"InventoryService: Watching for events from Server.Internal.Inventory","time":"2026-07-21T14:26:53Z"}
+{"level":"info","msg":"<green>Starting</> Inventory Service for Org <root> (root)","time":"2026-07-21T14:26:53Z"}
+{"level":"info","msg":"InventoryService: Reloading inventory from file for org root","time":"2026-07-21T14:26:53Z"}
+{"level":"info","msg":"Starting repository manager for Org <root> (root)","time":"2026-07-21T14:26:53Z"}
+{"level":"info","msg":"RepositoryManager: Watching for events from Server.Internal.ArtifactModification","time":"2026-07-21T14:26:53Z"}
+{"level":"info","msg":"Loaded 418 built in artifacts in 263.196815ms","time":"2026-07-21T14:26:53Z"}
+{"level":"info","msg":"Loaded 0 custom artifacts in 78.362µs","time":"2026-07-21T14:26:53Z"}
+{"level":"info","msg":"<green>Starting</> hunt manager service for Org <root> (root) with rate limit 30/s.","time":"2026-07-21T14:26:53Z"}
+{"level":"info","msg":"HuntManager: Watching for events from Server.Internal.HuntModification","time":"2026-07-21T14:26:53Z"}
+{"level":"info","msg":"HuntManager: Watching for events from System.Hunt.Participation","time":"2026-07-21T14:26:53Z"}
+{"level":"info","msg":"HuntManager: Watching for events from Server.Internal.Label","time":"2026-07-21T14:26:53Z"}
+{"level":"info","msg":"HuntManager: Watching for events from Server.Internal.Interrogation","time":"2026-07-21T14:26:53Z"}
+{"level":"info","msg":"HuntManager: Watching for events from System.Flow.Completion","time":"2026-07-21T14:26:53Z"}
+{"level":"info","msg":"<green>Starting</> Enrollment service for Org <root> (root).","time":"2026-07-21T14:26:53Z"}
+{"level":"info","msg":"InterrogationService for Generic.Client.Info/BasicInformation: Watching for events from System.Flow.Completion","time":"2026-07-21T14:26:53Z"}
+{"level":"info","msg":"InterrogationService for Custom.Generic.Client.Info/BasicInformation: Watching for events from System.Flow.Completion","time":"2026-07-21T14:26:53Z"}
+{"level":"info","msg":"InterrogationService: Watching for events from Server.Internal.Enrollment","time":"2026-07-21T14:26:53Z"}
+{"level":"info","msg":"HuntDispatcher: Watching for events from Server.Internal.HuntUpdate","time":"2026-07-21T14:26:53Z"}
+{"level":"info","msg":"<green>Starting</> Indexing Service for Org <root> (root). Refreshing every 5m0s","time":"2026-07-21T14:26:53Z"}
+{"level":"info","msg":"<green>Starting</> Hunt Dispatcher Service for Org <root> (root).","time":"2026-07-21T14:26:53Z"}
+{"level":"info","msg":"<green>Starting</> VFS writing service for Org <root> (root).","time":"2026-07-21T14:26:53Z"}
+{"level":"info","msg":"VFSService for System.VFS.ListDirectory: Watching for events from System.Flow.Completion","time":"2026-07-21T14:26:53Z"}
+{"level":"info","msg":"VFSService for System.VFS.ListDirectory/Stats: Watching for events from System.Flow.Completion","time":"2026-07-21T14:26:53Z"}
+{"level":"info","msg":"VFSService for System.VFS.DownloadFile: Watching for events from System.Flow.Completion","time":"2026-07-21T14:26:53Z"}
+{"level":"info","msg":"Labeler: Watching for events from Server.Internal.Label","time":"2026-07-21T14:26:53Z"}
+{"level":"info","msg":"<green>Starting</> Label service.","time":"2026-07-21T14:26:53Z"}
+{"level":"info","msg":"<green>Starting</> Server Artifact Runner Service for Org <root> (root)","time":"2026-07-21T14:26:53Z"}
+{"level":"info","msg":"NotebookWorker: <green> Connecting to master scheduler with worker local_notebook_0</>","time":"2026-07-21T14:26:53Z"}
+{"level":"info","msg":"NotebookWorker: <green> Connecting to master scheduler with worker local_notebook_2</>","time":"2026-07-21T14:26:53Z"}
+{"level":"info","msg":"NotebookWorker: <green> Connecting to master scheduler with worker local_notebook_1</>","time":"2026-07-21T14:26:53Z"}
+{"level":"info","msg":"NotebookWorker: <green> Connecting to master scheduler with worker local_notebook_3</>","time":"2026-07-21T14:26:53Z"}
+{"level":"info","msg":"NotebookWorker: <green> Connecting to master scheduler with worker local_notebook_4</>","time":"2026-07-21T14:26:53Z"}
+{"level":"info","msg":"<green>Starting</> Client Monitoring Service for Org <root> (root)","time":"2026-07-21T14:26:53Z"}
+{"level":"info","msg":"client_monitoring_service: Watching for events from Server.Internal.ArtifactModification","time":"2026-07-21T14:26:53Z"}
+{"level":"info","msg":"client_monitoring_service: Watching for events from Server.Internal.MetadataModifications","time":"2026-07-21T14:26:53Z"}
+{"level":"info","msg":"server_monitoring: <green>Starting</> Server Monitoring Service for Org <root> (root)","time":"2026-07-21T14:26:53Z"}
+{"level":"info","msg":"<green>server_monitoring</>: Updating monitoring table","time":"2026-07-21T14:26:53Z"}
+{"level":"info","msg":"server_monitoring_service: Watching for events from Server.Internal.ArtifactModification","time":"2026-07-21T14:26:53Z"}
+{"level":"info","msg":"server_monitoring_service: Watching for events from Server.Internal.MetadataModifications","time":"2026-07-21T14:26:53Z"}
+{"level":"info","msg":"Converting legacy client index to new format","time":"2026-07-21T14:26:53Z"}
+{"level":"info","msg":"CryptoServerManager: Watching for events from Server.Internal.ClientDelete","time":"2026-07-21T14:26:53Z"}
+{"level":"info","msg":"Throttling connections to 100 QPS","time":"2026-07-21T14:26:53Z"}
+{"level":"info","msg":"<red>Exiting</> notification service for Org <root> (root)!","time":"2026-07-21T14:26:53Z"}
+{"level":"info","msg":"<red>Stopping</> watch for System.VFS.ListDirectory/Stats for Org <root> (root) (VFSService)","time":"2026-07-21T14:26:53Z"}
+{"level":"info","msg":"<red>Closing</> Server Monitoring Event table for Org <root> (root)","time":"2026-07-21T14:26:53Z"}
+{"level":"info","msg":"<red>Stopping</> watch for System.VFS.ListDirectory for Org <root> (root) (VFSService)","time":"2026-07-21T14:26:53Z"}
+{"level":"info","msg":"<red>Stopping</> watch for System.VFS.DownloadFile for Org <root> (root) (VFSService)","time":"2026-07-21T14:26:53Z"}
+{"level": "info", "msg": "Starting...", "time": "2026-07-21T14:27:05.529256791Z"}
+{"level":"info","msg":"<green>Starting</> Org Manager service.","time":"2026-07-21T14:27:05Z"}
+{"level":"info","msg":"Starting services for Org <root> (root)","time":"2026-07-21T14:27:05Z"}
+{"level":"info","msg":"<green>Frontend:</> Server will be master.","time":"2026-07-21T14:27:05Z"}
+{"level":"info","msg":"<green>Filestore implementation</> FileBaseDataStore.","time":"2026-07-21T14:27:05Z"}
+{"level":"info","msg":"<green>Starting</> Journal service for Org <root> (root).","time":"2026-07-21T14:27:05Z"}
+{"level":"info","msg":"<green>Starting</> user manager service for org root","time":"2026-07-21T14:27:05Z"}
+{"level":"info","msg":"Starting <green>Backup Services</> for Org <root> (root) every 24h0m0s","time":"2026-07-21T14:27:05Z"}
+{"level":"info","msg":"FrontendService: Watching for events from Server.Internal.FrontendMetrics","time":"2026-07-21T14:27:05Z"}
+{"level":"info","msg":"UserManagerService: Watching for events from Server.Internal.UserManager","time":"2026-07-21T14:27:05Z"}
+{"level":"info","msg":"Starting Server Scheduler Service","time":"2026-07-21T14:27:05Z"}
+{"level":"info","msg":"<green>Starting</> the notification service for Org <root> (root).","time":"2026-07-21T14:27:05Z"}
+{"level":"info","msg":"NotificationService: Watching for events from Server.Internal.Ping","time":"2026-07-21T14:27:05Z"}
+{"level":"info","msg":"NotificationService: Watching for events from Server.Internal.Pong","time":"2026-07-21T14:27:05Z"}
+{"level":"info","msg":"NotificationService: Watching for events from Server.Internal.Notifications","time":"2026-07-21T14:27:05Z"}
+{"level":"info","msg":"<green>ClientInfo Manager</> Loaded snapshot in 127.357µs for org Org <root> (root) (1 records)","time":"2026-07-21T14:27:05Z"}
+{"level":"info","msg":"<green>Starting</> Client Info service for Org <root> (root).","time":"2026-07-21T14:27:05Z"}
+{"level":"info","msg":"ClientInfoManager: Watching for events from Server.Internal.ClientTasks","time":"2026-07-21T14:27:05Z"}
+{"level":"info","msg":"ClientInfoManager: Watching for events from System.Flow.Completion","time":"2026-07-21T14:27:05Z"}
+{"level":"info","msg":"ClientInfoManager: Watching for events from Server.Internal.ClientScheduled","time":"2026-07-21T14:27:05Z"}
+{"level":"info","msg":"ClientInfoManager: Watching for events from Server.Internal.ClientPing","time":"2026-07-21T14:27:05Z"}
+{"level":"info","msg":"InventoryService: Watching for events from Server.Internal.Inventory","time":"2026-07-21T14:27:05Z"}
+{"level":"info","msg":"<green>Starting</> Inventory Service for Org <root> (root)","time":"2026-07-21T14:27:05Z"}
+{"level":"info","msg":"InventoryService: Reloading inventory from file for org root","time":"2026-07-21T14:27:05Z"}
+{"level":"info","msg":"Starting repository manager for Org <root> (root)","time":"2026-07-21T14:27:05Z"}
+{"level":"info","msg":"RepositoryManager: Watching for events from Server.Internal.ArtifactModification","time":"2026-07-21T14:27:05Z"}
+{"level":"info","msg":"Loaded 418 built in artifacts in 232.546798ms","time":"2026-07-21T14:27:05Z"}
+{"level":"info","msg":"Loaded 0 custom artifacts in 67.712µs","time":"2026-07-21T14:27:05Z"}
+{"level":"info","msg":"<green>Starting</> hunt manager service for Org <root> (root) with rate limit 30/s.","time":"2026-07-21T14:27:05Z"}
+{"level":"info","msg":"HuntManager: Watching for events from Server.Internal.HuntModification","time":"2026-07-21T14:27:05Z"}
+{"level":"info","msg":"HuntManager: Watching for events from System.Hunt.Participation","time":"2026-07-21T14:27:05Z"}
+{"level":"info","msg":"HuntManager: Watching for events from Server.Internal.Label","time":"2026-07-21T14:27:05Z"}
+{"level":"info","msg":"HuntManager: Watching for events from Server.Internal.Interrogation","time":"2026-07-21T14:27:05Z"}
+{"level":"info","msg":"HuntManager: Watching for events from System.Flow.Completion","time":"2026-07-21T14:27:05Z"}
+{"level":"info","msg":"<green>Starting</> Enrollment service for Org <root> (root).","time":"2026-07-21T14:27:05Z"}
+{"level":"info","msg":"InterrogationService for Generic.Client.Info/BasicInformation: Watching for events from System.Flow.Completion","time":"2026-07-21T14:27:05Z"}
+{"level":"info","msg":"InterrogationService for Custom.Generic.Client.Info/BasicInformation: Watching for events from System.Flow.Completion","time":"2026-07-21T14:27:05Z"}
+{"level":"info","msg":"InterrogationService: Watching for events from Server.Internal.Enrollment","time":"2026-07-21T14:27:05Z"}
+{"level":"info","msg":"HuntDispatcher: Watching for events from Server.Internal.HuntUpdate","time":"2026-07-21T14:27:05Z"}
+{"level":"info","msg":"<green>Starting</> Indexing Service for Org <root> (root). Refreshing every 5m0s","time":"2026-07-21T14:27:05Z"}
+{"level":"info","msg":"<green>Starting</> VFS writing service for Org <root> (root).","time":"2026-07-21T14:27:05Z"}
+{"level":"info","msg":"VFSService for System.VFS.ListDirectory: Watching for events from System.Flow.Completion","time":"2026-07-21T14:27:05Z"}
+{"level":"info","msg":"<green>Starting</> Hunt Dispatcher Service for Org <root> (root).","time":"2026-07-21T14:27:05Z"}
+{"level":"info","msg":"VFSService for System.VFS.ListDirectory/Stats: Watching for events from System.Flow.Completion","time":"2026-07-21T14:27:05Z"}
+{"level":"info","msg":"VFSService for System.VFS.DownloadFile: Watching for events from System.Flow.Completion","time":"2026-07-21T14:27:05Z"}
+{"level":"info","msg":"Labeler: Watching for events from Server.Internal.Label","time":"2026-07-21T14:27:05Z"}
+{"level":"info","msg":"<green>Starting</> Label service.","time":"2026-07-21T14:27:05Z"}
+{"level":"info","msg":"<green>Starting</> Server Artifact Runner Service for Org <root> (root)","time":"2026-07-21T14:27:05Z"}
+{"level":"info","msg":"NotebookWorker: <green> Connecting to master scheduler with worker local_notebook_4</>","time":"2026-07-21T14:27:05Z"}
+{"level":"info","msg":"NotebookWorker: <green> Connecting to master scheduler with worker local_notebook_3</>","time":"2026-07-21T14:27:05Z"}
+{"level":"info","msg":"NotebookWorker: <green> Connecting to master scheduler with worker local_notebook_0</>","time":"2026-07-21T14:27:05Z"}
+{"level":"info","msg":"<green>Starting</> Client Monitoring Service for Org <root> (root)","time":"2026-07-21T14:27:05Z"}
+{"level":"info","msg":"NotebookWorker: <green> Connecting to master scheduler with worker local_notebook_2</>","time":"2026-07-21T14:27:05Z"}
+{"level":"info","msg":"NotebookWorker: <green> Connecting to master scheduler with worker local_notebook_1</>","time":"2026-07-21T14:27:05Z"}
+{"level":"info","msg":"client_monitoring_service: Watching for events from Server.Internal.ArtifactModification","time":"2026-07-21T14:27:05Z"}
+{"level":"info","msg":"client_monitoring_service: Watching for events from Server.Internal.MetadataModifications","time":"2026-07-21T14:27:05Z"}
+{"level":"info","msg":"server_monitoring: <green>Starting</> Server Monitoring Service for Org <root> (root)","time":"2026-07-21T14:27:05Z"}
+{"level":"info","msg":"<green>server_monitoring</>: Updating monitoring table","time":"2026-07-21T14:27:05Z"}
+{"level":"info","msg":"server_monitoring_service: Watching for events from Server.Internal.ArtifactModification","time":"2026-07-21T14:27:05Z"}
+{"level":"info","msg":"server_monitoring_service: Watching for events from Server.Internal.MetadataModifications","time":"2026-07-21T14:27:05Z"}
+{"level":"info","msg":"Converting legacy client index to new format","time":"2026-07-21T14:27:05Z"}
+{"level":"info","msg":"CryptoServerManager: Watching for events from Server.Internal.ClientDelete","time":"2026-07-21T14:27:05Z"}
+{"level":"info","msg":"Throttling connections to 100 QPS","time":"2026-07-21T14:27:05Z"}
+{"level":"info","msg":"<red>Exiting</> notification service for Org <root> (root)!","time":"2026-07-21T14:27:05Z"}
+{"level":"info","msg":"<red>Stopping</> watch for System.VFS.ListDirectory for Org <root> (root) (VFSService)","time":"2026-07-21T14:27:05Z"}
+{"level":"info","msg":"<red>Stopping</> watch for System.VFS.DownloadFile for Org <root> (root) (VFSService)","time":"2026-07-21T14:27:05Z"}
+{"level":"info","msg":"<red>Stopping</> watch for System.VFS.ListDirectory/Stats for Org <root> (root) (VFSService)","time":"2026-07-21T14:27:05Z"}
+{"level":"info","msg":"<red>Closing</> Server Monitoring Event table for Org <root> (root)","time":"2026-07-21T14:27:05Z"}
+{"level":"info","msg":"InventoryService: Reloading inventory from file for org root","time":"2026-07-21T14:28:22Z"}
+{"level": "info", "msg": "Starting...", "time": "2026-07-21T14:28:22.499072841Z"}
+{"level":"info","msg":"<green>Starting</> Org Manager service.","time":"2026-07-21T14:28:22Z"}
+{"level":"info","msg":"Starting services for Org <root> (root)","time":"2026-07-21T14:28:22Z"}
+{"level":"info","msg":"<green>Frontend:</> Server will be master.","time":"2026-07-21T14:28:22Z"}
+{"level":"info","msg":"<green>Filestore implementation</> FileBaseDataStore.","time":"2026-07-21T14:28:22Z"}
+{"level":"info","msg":"Starting <green>Backup Services</> for Org <root> (root) every 24h0m0s","time":"2026-07-21T14:28:22Z"}
+{"level":"info","msg":"<green>Starting</> Journal service for Org <root> (root).","time":"2026-07-21T14:28:22Z"}
+{"level":"info","msg":"<green>Starting</> user manager service for org root","time":"2026-07-21T14:28:22Z"}
+{"level":"info","msg":"UserManagerService: Watching for events from Server.Internal.UserManager","time":"2026-07-21T14:28:22Z"}
+{"level":"info","msg":"Starting Server Scheduler Service","time":"2026-07-21T14:28:22Z"}
+{"level":"info","msg":"<green>Starting</> the notification service for Org <root> (root).","time":"2026-07-21T14:28:22Z"}
+{"level":"info","msg":"NotificationService: Watching for events from Server.Internal.Ping","time":"2026-07-21T14:28:22Z"}
+{"level":"info","msg":"NotificationService: Watching for events from Server.Internal.Pong","time":"2026-07-21T14:28:22Z"}
+{"level":"info","msg":"NotificationService: Watching for events from Server.Internal.Notifications","time":"2026-07-21T14:28:22Z"}
+{"level":"info","msg":"<green>ClientInfo Manager</> Loaded snapshot in 58.33µs for org Org <root> (root) (1 records)","time":"2026-07-21T14:28:22Z"}
+{"level":"info","msg":"<green>Starting</> Client Info service for Org <root> (root).","time":"2026-07-21T14:28:22Z"}
+{"level":"info","msg":"ClientInfoManager: Watching for events from Server.Internal.ClientTasks","time":"2026-07-21T14:28:22Z"}
+{"level":"info","msg":"ClientInfoManager: Watching for events from System.Flow.Completion","time":"2026-07-21T14:28:22Z"}
+{"level":"info","msg":"ClientInfoManager: Watching for events from Server.Internal.ClientScheduled","time":"2026-07-21T14:28:22Z"}
+{"level":"info","msg":"ClientInfoManager: Watching for events from Server.Internal.ClientPing","time":"2026-07-21T14:28:22Z"}
+{"level":"info","msg":"InventoryService: Watching for events from Server.Internal.Inventory","time":"2026-07-21T14:28:22Z"}
+{"level":"info","msg":"<green>Starting</> Inventory Service for Org <root> (root)","time":"2026-07-21T14:28:22Z"}
+{"level":"info","msg":"InventoryService: Reloading inventory from file for org root","time":"2026-07-21T14:28:22Z"}
+{"level":"info","msg":"Starting repository manager for Org <root> (root)","time":"2026-07-21T14:28:22Z"}
+{"level":"info","msg":"RepositoryManager: Watching for events from Server.Internal.ArtifactModification","time":"2026-07-21T14:28:22Z"}
+{"level":"info","msg":"Loaded 418 built in artifacts in 242.935278ms","time":"2026-07-21T14:28:22Z"}
+{"level":"info","msg":"Loaded 0 custom artifacts in 52.9µs","time":"2026-07-21T14:28:22Z"}
+{"level":"info","msg":"<green>Starting</> hunt manager service for Org <root> (root) with rate limit 30/s.","time":"2026-07-21T14:28:22Z"}
+{"level":"info","msg":"HuntManager: Watching for events from Server.Internal.HuntModification","time":"2026-07-21T14:28:22Z"}
+{"level":"info","msg":"HuntManager: Watching for events from System.Hunt.Participation","time":"2026-07-21T14:28:22Z"}
+{"level":"info","msg":"HuntManager: Watching for events from Server.Internal.Label","time":"2026-07-21T14:28:22Z"}
+{"level":"info","msg":"HuntManager: Watching for events from Server.Internal.Interrogation","time":"2026-07-21T14:28:22Z"}
+{"level":"info","msg":"HuntManager: Watching for events from System.Flow.Completion","time":"2026-07-21T14:28:22Z"}
+{"level":"info","msg":"<green>Starting</> Enrollment service for Org <root> (root).","time":"2026-07-21T14:28:22Z"}
+{"level":"info","msg":"InterrogationService for Generic.Client.Info/BasicInformation: Watching for events from System.Flow.Completion","time":"2026-07-21T14:28:22Z"}
+{"level":"info","msg":"InterrogationService for Custom.Generic.Client.Info/BasicInformation: Watching for events from System.Flow.Completion","time":"2026-07-21T14:28:22Z"}
+{"level":"info","msg":"InterrogationService: Watching for events from Server.Internal.Enrollment","time":"2026-07-21T14:28:22Z"}
+{"level":"info","msg":"HuntDispatcher: Watching for events from Server.Internal.HuntUpdate","time":"2026-07-21T14:28:22Z"}
+{"level":"info","msg":"<green>Starting</> Indexing Service for Org <root> (root). Refreshing every 5m0s","time":"2026-07-21T14:28:22Z"}
+{"level":"info","msg":"<green>Starting</> Hunt Dispatcher Service for Org <root> (root).","time":"2026-07-21T14:28:22Z"}
+{"level":"info","msg":"<green>Starting</> VFS writing service for Org <root> (root).","time":"2026-07-21T14:28:22Z"}
+{"level":"info","msg":"VFSService for System.VFS.ListDirectory: Watching for events from System.Flow.Completion","time":"2026-07-21T14:28:22Z"}
+{"level":"info","msg":"VFSService for System.VFS.ListDirectory/Stats: Watching for events from System.Flow.Completion","time":"2026-07-21T14:28:22Z"}
+{"level":"info","msg":"VFSService for System.VFS.DownloadFile: Watching for events from System.Flow.Completion","time":"2026-07-21T14:28:22Z"}
+{"level":"info","msg":"Labeler: Watching for events from Server.Internal.Label","time":"2026-07-21T14:28:22Z"}
+{"level":"info","msg":"<green>Starting</> Server Artifact Runner Service for Org <root> (root)","time":"2026-07-21T14:28:22Z"}
+{"level":"info","msg":"<green>Starting</> Label service.","time":"2026-07-21T14:28:22Z"}
+{"level":"info","msg":"NotebookWorker: <green> Connecting to master scheduler with worker local_notebook_2</>","time":"2026-07-21T14:28:22Z"}
+{"level":"info","msg":"NotebookWorker: <green> Connecting to master scheduler with worker local_notebook_4</>","time":"2026-07-21T14:28:22Z"}
+{"level":"info","msg":"NotebookWorker: <green> Connecting to master scheduler with worker local_notebook_0</>","time":"2026-07-21T14:28:22Z"}
+{"level":"info","msg":"NotebookWorker: <green> Connecting to master scheduler with worker local_notebook_1</>","time":"2026-07-21T14:28:22Z"}
+{"level":"info","msg":"NotebookWorker: <green> Connecting to master scheduler with worker local_notebook_3</>","time":"2026-07-21T14:28:22Z"}
+{"level":"info","msg":"<green>Starting</> Client Monitoring Service for Org <root> (root)","time":"2026-07-21T14:28:22Z"}
+{"level":"info","msg":"client_monitoring_service: Watching for events from Server.Internal.ArtifactModification","time":"2026-07-21T14:28:22Z"}
+{"level":"info","msg":"client_monitoring_service: Watching for events from Server.Internal.MetadataModifications","time":"2026-07-21T14:28:22Z"}
+{"level":"info","msg":"server_monitoring: <green>Starting</> Server Monitoring Service for Org <root> (root)","time":"2026-07-21T14:28:22Z"}
+{"level":"info","msg":"<green>server_monitoring</>: Updating monitoring table","time":"2026-07-21T14:28:22Z"}
+{"level":"info","msg":"server_monitoring_service: Watching for events from Server.Internal.ArtifactModification","time":"2026-07-21T14:28:22Z"}
+{"level":"info","msg":"server_monitoring_service: Watching for events from Server.Internal.MetadataModifications","time":"2026-07-21T14:28:22Z"}
+{"level":"info","msg":"Converting legacy client index to new format","time":"2026-07-21T14:28:22Z"}
+{"level":"info","msg":"CryptoServerManager: Watching for events from Server.Internal.ClientDelete","time":"2026-07-21T14:28:22Z"}
+{"level":"info","msg":"Throttling connections to 100 QPS","time":"2026-07-21T14:28:22Z"}
+{"level":"info","msg":"<red>Exiting</> notification service for Org <root> (root)!","time":"2026-07-21T14:28:23Z"}
+{"level":"info","msg":"<red>Stopping</> watch for System.VFS.ListDirectory/Stats for Org <root> (root) (VFSService)","time":"2026-07-21T14:28:23Z"}
+{"level":"info","msg":"<red>Closing</> Server Monitoring Event table for Org <root> (root)","time":"2026-07-21T14:28:23Z"}
+{"level":"info","msg":"<red>Stopping</> watch for System.VFS.DownloadFile for Org <root> (root) (VFSService)","time":"2026-07-21T14:28:23Z"}
+{"level":"info","msg":"<red>Stopping</> watch for System.VFS.ListDirectory for Org <root> (root) (VFSService)","time":"2026-07-21T14:28:23Z"}
+{"level": "info", "msg": "Starting...", "time": "2026-07-21T14:28:38.548756867Z"}
+{"level":"info","msg":"<green>Starting</> Org Manager service.","time":"2026-07-21T14:28:38Z"}
+{"level":"info","msg":"Starting services for Org <root> (root)","time":"2026-07-21T14:28:38Z"}
+{"level":"info","msg":"<green>Frontend:</> Server will be master.","time":"2026-07-21T14:28:38Z"}
+{"level":"info","msg":"<green>Filestore implementation</> FileBaseDataStore.","time":"2026-07-21T14:28:38Z"}
+{"level":"info","msg":"Starting <green>Backup Services</> for Org <root> (root) every 24h0m0s","time":"2026-07-21T14:28:38Z"}
+{"level":"info","msg":"<green>Starting</> Journal service for Org <root> (root).","time":"2026-07-21T14:28:38Z"}
+{"level":"info","msg":"<green>Starting</> user manager service for org root","time":"2026-07-21T14:28:38Z"}
+{"level":"info","msg":"UserManagerService: Watching for events from Server.Internal.UserManager","time":"2026-07-21T14:28:38Z"}
+{"level":"info","msg":"Starting Server Scheduler Service","time":"2026-07-21T14:28:38Z"}
+{"level":"info","msg":"<green>Starting</> the notification service for Org <root> (root).","time":"2026-07-21T14:28:38Z"}
+{"level":"info","msg":"NotificationService: Watching for events from Server.Internal.Ping","time":"2026-07-21T14:28:38Z"}
+{"level":"info","msg":"NotificationService: Watching for events from Server.Internal.Pong","time":"2026-07-21T14:28:38Z"}
+{"level":"info","msg":"NotificationService: Watching for events from Server.Internal.Notifications","time":"2026-07-21T14:28:38Z"}
+{"level":"info","msg":"<green>ClientInfo Manager</> Loaded snapshot in 230.914µs for org Org <root> (root) (1 records)","time":"2026-07-21T14:28:38Z"}
+{"level":"info","msg":"<green>Starting</> Client Info service for Org <root> (root).","time":"2026-07-21T14:28:38Z"}
+{"level":"info","msg":"ClientInfoManager: Watching for events from Server.Internal.ClientTasks","time":"2026-07-21T14:28:38Z"}
+{"level":"info","msg":"ClientInfoManager: Watching for events from System.Flow.Completion","time":"2026-07-21T14:28:38Z"}
+{"level":"info","msg":"ClientInfoManager: Watching for events from Server.Internal.ClientScheduled","time":"2026-07-21T14:28:38Z"}
+{"level":"info","msg":"ClientInfoManager: Watching for events from Server.Internal.ClientPing","time":"2026-07-21T14:28:38Z"}
+{"level":"info","msg":"InventoryService: Watching for events from Server.Internal.Inventory","time":"2026-07-21T14:28:38Z"}
+{"level":"info","msg":"<green>Starting</> Inventory Service for Org <root> (root)","time":"2026-07-21T14:28:38Z"}
+{"level":"info","msg":"InventoryService: Reloading inventory from file for org root","time":"2026-07-21T14:28:38Z"}
+{"level":"info","msg":"Starting repository manager for Org <root> (root)","time":"2026-07-21T14:28:38Z"}
+{"level":"info","msg":"RepositoryManager: Watching for events from Server.Internal.ArtifactModification","time":"2026-07-21T14:28:38Z"}
+{"level":"info","msg":"Loaded 418 built in artifacts in 241.087067ms","time":"2026-07-21T14:28:38Z"}
+{"level":"info","msg":"Loaded 0 custom artifacts in 69.936µs","time":"2026-07-21T14:28:38Z"}
+{"level":"info","msg":"<green>Starting</> hunt manager service for Org <root> (root) with rate limit 30/s.","time":"2026-07-21T14:28:38Z"}
+{"level":"info","msg":"HuntManager: Watching for events from Server.Internal.HuntModification","time":"2026-07-21T14:28:38Z"}
+{"level":"info","msg":"HuntManager: Watching for events from System.Hunt.Participation","time":"2026-07-21T14:28:38Z"}
+{"level":"info","msg":"HuntManager: Watching for events from Server.Internal.Label","time":"2026-07-21T14:28:38Z"}
+{"level":"info","msg":"HuntManager: Watching for events from Server.Internal.Interrogation","time":"2026-07-21T14:28:38Z"}
+{"level":"info","msg":"HuntManager: Watching for events from System.Flow.Completion","time":"2026-07-21T14:28:38Z"}
+{"level":"info","msg":"<green>Starting</> Enrollment service for Org <root> (root).","time":"2026-07-21T14:28:38Z"}
+{"level":"info","msg":"InterrogationService for Generic.Client.Info/BasicInformation: Watching for events from System.Flow.Completion","time":"2026-07-21T14:28:38Z"}
+{"level":"info","msg":"InterrogationService for Custom.Generic.Client.Info/BasicInformation: Watching for events from System.Flow.Completion","time":"2026-07-21T14:28:38Z"}
+{"level":"info","msg":"InterrogationService: Watching for events from Server.Internal.Enrollment","time":"2026-07-21T14:28:38Z"}
+{"level":"info","msg":"HuntDispatcher: Watching for events from Server.Internal.HuntUpdate","time":"2026-07-21T14:28:38Z"}
+{"level":"info","msg":"<green>Starting</> Indexing Service for Org <root> (root). Refreshing every 5m0s","time":"2026-07-21T14:28:38Z"}
+{"level":"info","msg":"<green>Starting</> Hunt Dispatcher Service for Org <root> (root).","time":"2026-07-21T14:28:38Z"}
+{"level":"info","msg":"<green>Starting</> VFS writing service for Org <root> (root).","time":"2026-07-21T14:28:38Z"}
+{"level":"info","msg":"VFSService for System.VFS.ListDirectory: Watching for events from System.Flow.Completion","time":"2026-07-21T14:28:38Z"}
+{"level":"info","msg":"VFSService for System.VFS.ListDirectory/Stats: Watching for events from System.Flow.Completion","time":"2026-07-21T14:28:38Z"}
+{"level":"info","msg":"VFSService for System.VFS.DownloadFile: Watching for events from System.Flow.Completion","time":"2026-07-21T14:28:38Z"}
+{"level":"info","msg":"Labeler: Watching for events from Server.Internal.Label","time":"2026-07-21T14:28:38Z"}
+{"level":"info","msg":"<green>Starting</> Server Artifact Runner Service for Org <root> (root)","time":"2026-07-21T14:28:38Z"}
+{"level":"info","msg":"<green>Starting</> Label service.","time":"2026-07-21T14:28:38Z"}
+{"level":"info","msg":"NotebookWorker: <green> Connecting to master scheduler with worker local_notebook_3</>","time":"2026-07-21T14:28:38Z"}
+{"level":"info","msg":"NotebookWorker: <green> Connecting to master scheduler with worker local_notebook_0</>","time":"2026-07-21T14:28:38Z"}
+{"level":"info","msg":"NotebookWorker: <green> Connecting to master scheduler with worker local_notebook_4</>","time":"2026-07-21T14:28:38Z"}
+{"level":"info","msg":"<green>Starting</> Client Monitoring Service for Org <root> (root)","time":"2026-07-21T14:28:38Z"}
+{"level":"info","msg":"NotebookWorker: <green> Connecting to master scheduler with worker local_notebook_2</>","time":"2026-07-21T14:28:38Z"}
+{"level":"info","msg":"NotebookWorker: <green> Connecting to master scheduler with worker local_notebook_1</>","time":"2026-07-21T14:28:38Z"}
+{"level":"info","msg":"client_monitoring_service: Watching for events from Server.Internal.ArtifactModification","time":"2026-07-21T14:28:38Z"}
+{"level":"info","msg":"client_monitoring_service: Watching for events from Server.Internal.MetadataModifications","time":"2026-07-21T14:28:38Z"}
+{"level":"info","msg":"server_monitoring: <green>Starting</> Server Monitoring Service for Org <root> (root)","time":"2026-07-21T14:28:38Z"}
+{"level":"info","msg":"<green>server_monitoring</>: Updating monitoring table","time":"2026-07-21T14:28:38Z"}
+{"level":"info","msg":"server_monitoring_service: Watching for events from Server.Internal.ArtifactModification","time":"2026-07-21T14:28:38Z"}
+{"level":"info","msg":"server_monitoring_service: Watching for events from Server.Internal.MetadataModifications","time":"2026-07-21T14:28:38Z"}
+{"level":"info","msg":"Converting legacy client index to new format","time":"2026-07-21T14:28:38Z"}
+{"level":"info","msg":"CryptoServerManager: Watching for events from Server.Internal.ClientDelete","time":"2026-07-21T14:28:38Z"}
+{"level":"info","msg":"Throttling connections to 100 QPS","time":"2026-07-21T14:28:38Z"}
+{"level":"info","msg":"<red>Exiting</> notification service for Org <root> (root)!","time":"2026-07-21T14:28:38Z"}
+{"level":"info","msg":"<red>Closing</> Server Monitoring Event table for Org <root> (root)","time":"2026-07-21T14:28:38Z"}
+{"level":"info","msg":"<red>Stopping</> watch for System.VFS.ListDirectory/Stats for Org <root> (root) (VFSService)","time":"2026-07-21T14:28:38Z"}
+{"level":"info","msg":"<red>Stopping</> watch for System.VFS.ListDirectory for Org <root> (root) (VFSService)","time":"2026-07-21T14:28:38Z"}
+{"level":"info","msg":"<red>Stopping</> watch for System.VFS.DownloadFile for Org <root> (root) (VFSService)","time":"2026-07-21T14:28:38Z"}
+{"level":"info","msg":"<red>Shutting down</> frontend","time":"2026-07-21T14:37:18Z"}
+{"level":"info","msg":"<red>Exiting</> notification service for Org <root> (root)!","time":"2026-07-21T14:37:18Z"}
+{"level":"info","msg":"<red>Stopping</> watch for System.VFS.DownloadFile for Org <root> (root) (VFSService)","time":"2026-07-21T14:37:18Z"}
+{"level":"info","msg":"<red>Stopping</> watch for System.VFS.ListDirectory/Stats for Org <root> (root) (VFSService)","time":"2026-07-21T14:37:18Z"}
+{"level":"info","msg":"<red>Stopping</> watch for System.VFS.ListDirectory for Org <root> (root) (VFSService)","time":"2026-07-21T14:37:18Z"}
+{"level":"info","msg":"<red>Shutting down</> gRPC API server","time":"2026-07-21T14:37:18Z"}
+{"level":"info","msg":"<red>Closing</> Server Monitoring Event table for Org <root> (root)","time":"2026-07-21T14:37:18Z"}
+{"level":"info","msg":"<red>Shutting down</> Prometheus monitoring service","time":"2026-07-21T14:37:18Z"}
+{"level": "info", "msg": "Starting...", "time": "2026-07-21T14:38:51.479270096Z"}
+{"level":"info","msg":"<green>Starting</> Org Manager service.","time":"2026-07-21T14:38:51Z"}
+{"level":"info","msg":"Starting services for Org <root> (root)","time":"2026-07-21T14:38:51Z"}
+{"level":"info","msg":"<green>Frontend:</> Server will be master.","time":"2026-07-21T14:38:51Z"}
+{"level":"info","msg":"<green>Filestore implementation</> FileBaseDataStore.","time":"2026-07-21T14:38:51Z"}
+{"level":"info","msg":"Starting <green>Backup Services</> for Org <root> (root) every 24h0m0s","time":"2026-07-21T14:38:51Z"}
+{"level":"info","msg":"<green>Starting</> Journal service for Org <root> (root).","time":"2026-07-21T14:38:51Z"}
+{"level":"info","msg":"<green>Starting</> user manager service for org root","time":"2026-07-21T14:38:51Z"}
+{"level":"info","msg":"UserManagerService: Watching for events from Server.Internal.UserManager","time":"2026-07-21T14:38:51Z"}
+{"level":"info","msg":"Starting Server Scheduler Service","time":"2026-07-21T14:38:51Z"}
+{"level":"info","msg":"<green>Starting</> the notification service for Org <root> (root).","time":"2026-07-21T14:38:51Z"}
+{"level":"info","msg":"NotificationService: Watching for events from Server.Internal.Ping","time":"2026-07-21T14:38:51Z"}
+{"level":"info","msg":"NotificationService: Watching for events from Server.Internal.Pong","time":"2026-07-21T14:38:51Z"}
+{"level":"info","msg":"NotificationService: Watching for events from Server.Internal.Notifications","time":"2026-07-21T14:38:51Z"}
+{"level":"info","msg":"<green>ClientInfo Manager</> Loaded snapshot in 116.303µs for org Org <root> (root) (1 records)","time":"2026-07-21T14:38:51Z"}
+{"level":"info","msg":"<green>Starting</> Client Info service for Org <root> (root).","time":"2026-07-21T14:38:51Z"}
+{"level":"info","msg":"ClientInfoManager: Watching for events from Server.Internal.ClientTasks","time":"2026-07-21T14:38:51Z"}
+{"level":"info","msg":"ClientInfoManager: Watching for events from System.Flow.Completion","time":"2026-07-21T14:38:51Z"}
+{"level":"info","msg":"ClientInfoManager: Watching for events from Server.Internal.ClientScheduled","time":"2026-07-21T14:38:51Z"}
+{"level":"info","msg":"ClientInfoManager: Watching for events from Server.Internal.ClientPing","time":"2026-07-21T14:38:51Z"}
+{"level":"info","msg":"InventoryService: Watching for events from Server.Internal.Inventory","time":"2026-07-21T14:38:51Z"}
+{"level":"info","msg":"<green>Starting</> Inventory Service for Org <root> (root)","time":"2026-07-21T14:38:51Z"}
+{"level":"info","msg":"InventoryService: Reloading inventory from file for org root","time":"2026-07-21T14:38:51Z"}
+{"level":"info","msg":"Starting repository manager for Org <root> (root)","time":"2026-07-21T14:38:51Z"}
+{"level":"info","msg":"RepositoryManager: Watching for events from Server.Internal.ArtifactModification","time":"2026-07-21T14:38:51Z"}
+{"level":"info","msg":"Loaded 418 built in artifacts in 233.538506ms","time":"2026-07-21T14:38:51Z"}
+{"level":"info","msg":"Loaded 0 custom artifacts in 85.64µs","time":"2026-07-21T14:38:51Z"}
+{"level":"info","msg":"<green>Starting</> hunt manager service for Org <root> (root) with rate limit 30/s.","time":"2026-07-21T14:38:51Z"}
+{"level":"info","msg":"HuntManager: Watching for events from Server.Internal.HuntModification","time":"2026-07-21T14:38:51Z"}
+{"level":"info","msg":"HuntManager: Watching for events from System.Hunt.Participation","time":"2026-07-21T14:38:51Z"}
+{"level":"info","msg":"HuntManager: Watching for events from Server.Internal.Label","time":"2026-07-21T14:38:51Z"}
+{"level":"info","msg":"HuntManager: Watching for events from Server.Internal.Interrogation","time":"2026-07-21T14:38:51Z"}
+{"level":"info","msg":"HuntManager: Watching for events from System.Flow.Completion","time":"2026-07-21T14:38:51Z"}
+{"level":"info","msg":"<green>Starting</> Enrollment service for Org <root> (root).","time":"2026-07-21T14:38:51Z"}
+{"level":"info","msg":"InterrogationService for Generic.Client.Info/BasicInformation: Watching for events from System.Flow.Completion","time":"2026-07-21T14:38:51Z"}
+{"level":"info","msg":"InterrogationService for Custom.Generic.Client.Info/BasicInformation: Watching for events from System.Flow.Completion","time":"2026-07-21T14:38:51Z"}
+{"level":"info","msg":"InterrogationService: Watching for events from Server.Internal.Enrollment","time":"2026-07-21T14:38:51Z"}
+{"level":"info","msg":"HuntDispatcher: Watching for events from Server.Internal.HuntUpdate","time":"2026-07-21T14:38:51Z"}
+{"level":"info","msg":"<green>Starting</> Indexing Service for Org <root> (root). Refreshing every 5m0s","time":"2026-07-21T14:38:51Z"}
+{"level":"info","msg":"<green>Starting</> Hunt Dispatcher Service for Org <root> (root).","time":"2026-07-21T14:38:51Z"}
+{"level":"info","msg":"<green>Starting</> VFS writing service for Org <root> (root).","time":"2026-07-21T14:38:51Z"}
+{"level":"info","msg":"VFSService for System.VFS.ListDirectory: Watching for events from System.Flow.Completion","time":"2026-07-21T14:38:51Z"}
+{"level":"info","msg":"VFSService for System.VFS.ListDirectory/Stats: Watching for events from System.Flow.Completion","time":"2026-07-21T14:38:51Z"}
+{"level":"info","msg":"VFSService for System.VFS.DownloadFile: Watching for events from System.Flow.Completion","time":"2026-07-21T14:38:51Z"}
+{"level":"info","msg":"Labeler: Watching for events from Server.Internal.Label","time":"2026-07-21T14:38:51Z"}
+{"level":"info","msg":"<green>Starting</> Server Artifact Runner Service for Org <root> (root)","time":"2026-07-21T14:38:51Z"}
+{"level":"info","msg":"<green>Starting</> Label service.","time":"2026-07-21T14:38:51Z"}
+{"level":"info","msg":"NotebookWorker: <green> Connecting to master scheduler with worker local_notebook_1</>","time":"2026-07-21T14:38:51Z"}
+{"level":"info","msg":"NotebookWorker: <green> Connecting to master scheduler with worker local_notebook_0</>","time":"2026-07-21T14:38:51Z"}
+{"level":"info","msg":"<green>Starting</> Client Monitoring Service for Org <root> (root)","time":"2026-07-21T14:38:51Z"}
+{"level":"info","msg":"NotebookWorker: <green> Connecting to master scheduler with worker local_notebook_2</>","time":"2026-07-21T14:38:51Z"}
+{"level":"info","msg":"NotebookWorker: <green> Connecting to master scheduler with worker local_notebook_3</>","time":"2026-07-21T14:38:51Z"}
+{"level":"info","msg":"NotebookWorker: <green> Connecting to master scheduler with worker local_notebook_4</>","time":"2026-07-21T14:38:51Z"}
+{"level":"info","msg":"client_monitoring_service: Watching for events from Server.Internal.ArtifactModification","time":"2026-07-21T14:38:51Z"}
+{"level":"info","msg":"client_monitoring_service: Watching for events from Server.Internal.MetadataModifications","time":"2026-07-21T14:38:51Z"}
+{"level":"info","msg":"server_monitoring: <green>Starting</> Server Monitoring Service for Org <root> (root)","time":"2026-07-21T14:38:51Z"}
+{"level":"info","msg":"<green>server_monitoring</>: Updating monitoring table","time":"2026-07-21T14:38:51Z"}
+{"level":"info","msg":"server_monitoring_service: Watching for events from Server.Internal.ArtifactModification","time":"2026-07-21T14:38:51Z"}
+{"level":"info","msg":"server_monitoring_service: Watching for events from Server.Internal.MetadataModifications","time":"2026-07-21T14:38:51Z"}
+{"level":"info","msg":"Converting legacy client index to new format","time":"2026-07-21T14:38:51Z"}
+{"level":"info","msg":"CryptoServerManager: Watching for events from Server.Internal.ClientDelete","time":"2026-07-21T14:38:51Z"}
+{"level":"info","msg":"Throttling connections to 100 QPS","time":"2026-07-21T14:38:51Z"}
+{"level":"info","msg":"<green>Starting</> gRPC API server on 127.0.0.1:8001 ","time":"2026-07-21T14:38:51Z"}
+{"level":"info","msg":"Launched Prometheus monitoring server on 127.0.0.1:8003 ","time":"2026-07-21T14:38:51Z"}
+{"level":"info","msg":"Frontend is ready to handle client TLS requests at <green>https://localhost:8000/","time":"2026-07-21T14:38:51Z"}
+{"level":"info","msg":"Running client from /tmp/gui_datastore/client.config.yaml","time":"2026-07-21T14:38:51Z"}
+{"level": "info", "msg": "Starting...", "time": "2026-07-21T14:38:51.973245299Z"}
+{"level":"info","msg":"FrontendService: Watching for events from Server.Internal.FrontendMetrics","time":"2026-07-21T14:38:52Z"}
+{"level":"info","msg":"Compiled all artifacts.","time":"2026-07-21T14:38:53Z"}
+{"level":"info","msg":"http: TLS handshake error from 127.0.0.1:43486: remote error: tls: unknown certificate\n","time":"2026-07-21T14:39:02Z"}
+{"level":"info","msg":"http: TLS handshake error from 127.0.0.1:43498: remote error: tls: unknown certificate\n","time":"2026-07-21T14:39:02Z"}
+{"level":"info","msg":"http: TLS handshake error from 127.0.0.1:39844: remote error: tls: unknown certificate\n","time":"2026-07-21T14:40:51Z"}
+{"level":"info","msg":"http: TLS handshake error from 127.0.0.1:39850: remote error: tls: unknown certificate\n","time":"2026-07-21T14:40:51Z"}
+{"level":"info","msg":"http: TLS handshake error from 127.0.0.1:56170: remote error: tls: unknown certificate\n","time":"2026-07-21T14:41:51Z"}
+{"level":"info","msg":"http: TLS handshake error from 127.0.0.1:58414: remote error: tls: unknown certificate\n","time":"2026-07-21T14:42:47Z"}
+{"level":"info","msg":"http: TLS handshake error from 127.0.0.1:57960: remote error: tls: unknown certificate\n","time":"2026-07-21T14:44:51Z"}
+{"level":"info","msg":"http: TLS handshake error from 127.0.0.1:57972: remote error: tls: unknown certificate\n","time":"2026-07-21T14:44:51Z"}
+{"level":"info","msg":"http: TLS handshake error from 127.0.0.1:35646: remote error: tls: unknown certificate\n","time":"2026-07-21T14:45:52Z"}
+{"level":"info","msg":"http: TLS handshake error from 127.0.0.1:55486: remote error: tls: unknown certificate\n","time":"2026-07-21T14:46:50Z"}
+{"level":"info","msg":"http: TLS handshake error from 127.0.0.1:59188: remote error: tls: unknown certificate\n","time":"2026-07-21T14:47:51Z"}
+{"level":"info","msg":"http: TLS handshake error from 127.0.0.1:43880: remote error: tls: unknown certificate\n","time":"2026-07-21T14:48:51Z"}
+{"level":"info","msg":"InventoryService: Reloading inventory from file for org root","time":"2026-07-21T14:49:37Z"}
+{"level":"info","msg":"http: TLS handshake error from 127.0.0.1:56306: remote error: tls: unknown certificate\n","time":"2026-07-21T14:49:49Z"}
+{"level":"info","msg":"http: TLS handshake error from 127.0.0.1:56330: remote error: tls: unknown certificate\n","time":"2026-07-21T14:50:50Z"}
+{"level":"info","msg":"http: TLS handshake error from 127.0.0.1:44728: remote error: tls: unknown certificate\n","time":"2026-07-21T14:51:51Z"}
+{"level":"info","msg":"http: TLS handshake error from 127.0.0.1:45786: remote error: tls: unknown certificate\n","time":"2026-07-21T14:52:52Z"}
+{"level":"info","msg":"http: TLS handshake error from 127.0.0.1:55378: remote error: tls: unknown certificate\n","time":"2026-07-21T14:53:50Z"}
+{"level":"info","msg":"http: TLS handshake error from 127.0.0.1:49656: remote error: tls: unknown certificate\n","time":"2026-07-21T14:54:51Z"}
+{"level":"info","msg":"http: TLS handshake error from 127.0.0.1:46550: remote error: tls: unknown certificate\n","time":"2026-07-21T14:55:52Z"}
+{"level":"info","msg":"http: TLS handshake error from 127.0.0.1:37272: remote error: tls: unknown certificate\n","time":"2026-07-21T14:56:49Z"}
+{"level":"info","msg":"http: TLS handshake error from 127.0.0.1:55604: remote error: tls: unknown certificate\n","time":"2026-07-21T14:57:50Z"}
+{"level":"info","msg":"http: TLS handshake error from 127.0.0.1:40348: remote error: tls: unknown certificate\n","time":"2026-07-21T14:58:51Z"}
+{"level":"info","msg":"http: TLS handshake error from 127.0.0.1:58304: remote error: tls: unknown certificate\n","time":"2026-07-21T14:59:52Z"}
+{"level":"info","msg":"InventoryService: Reloading inventory from file for org root","time":"2026-07-21T14:59:59Z"}
+{"level":"info","msg":"http: TLS handshake error from 127.0.0.1:52520: remote error: tls: unknown certificate\n","time":"2026-07-21T15:00:50Z"}
+{"level":"info","msg":"http: TLS handshake error from 127.0.0.1:54964: remote error: tls: unknown certificate\n","time":"2026-07-21T15:01:51Z"}
+{"level":"info","msg":"http: TLS handshake error from 127.0.0.1:40652: remote error: tls: unknown certificate\n","time":"2026-07-21T15:02:52Z"}

@@ -1,0 +1,2 @@
+{"operation":"Invalid password","principal":"admin","details":{"remote":"127.0.0.1:43872","status":401},"_ts":1784644049,"_Source":"admin"}
+{"operation":"Invalid password","principal":"admin","details":{"remote":"127.0.0.1:52480","status":401},"_ts":1784644067,"_Source":"admin"}

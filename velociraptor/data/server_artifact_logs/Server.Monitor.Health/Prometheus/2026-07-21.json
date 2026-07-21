@@ -1,0 +1,41 @@
+{"Timestamp":"2026-07-21 14:05:56.150543286 +0000 UTC","Level":"DEFAULT","Message":"server_monitoring: Collecting \u003cgreen\u003eServer.Monitor.Health/Prometheus\u003c/\u003e\n"}
+{"Timestamp":"2026-07-21 14:07:58.904746346 +0000 UTC","Level":"DEFAULT","Message":"Time 122: Server.Monitor.Health/Prometheus: Waiting for rows.\n"}
+{"Timestamp":"2026-07-21 14:09:58.556988056 +0000 UTC","Level":"DEFAULT","Message":"Time 242: Server.Monitor.Health/Prometheus: Waiting for rows.\n"}
+{"Timestamp":"2026-07-21 14:12:03.70058299 +0000 UTC","Level":"DEFAULT","Message":"Time 367: Server.Monitor.Health/Prometheus: Waiting for rows.\n"}
+{"Timestamp":"2026-07-21 14:14:08.155521211 +0000 UTC","Level":"DEFAULT","Message":"Time 492: Server.Monitor.Health/Prometheus: Waiting for rows.\n"}
+{"Timestamp":"2026-07-21 14:16:29.247376779 +0000 UTC","Level":"DEFAULT","Message":"Time 633: Server.Monitor.Health/Prometheus: Waiting for rows.\n"}
+{"Timestamp":"2026-07-21 14:18:44.145482693 +0000 UTC","Level":"DEFAULT","Message":"Time 767: Server.Monitor.Health/Prometheus: Waiting for rows.\n"}
+{"Timestamp":"2026-07-21 14:20:46.765328112 +0000 UTC","Level":"DEFAULT","Message":"Time 890: Server.Monitor.Health/Prometheus: Waiting for rows.\n"}
+{"Timestamp":"2026-07-21 14:22:58.41312226 +0000 UTC","Level":"DEFAULT","Message":"Time 1022: Server.Monitor.Health/Prometheus: Waiting for rows.\n"}
+{"Timestamp":"2026-07-21 14:25:18.47559833 +0000 UTC","Level":"DEFAULT","Message":"Time 1162: Server.Monitor.Health/Prometheus: Waiting for rows.\n"}
+{"Timestamp":"2026-07-21 14:26:53.742353619 +0000 UTC","Level":"DEFAULT","Message":"server_monitoring: Collecting \u003cgreen\u003eServer.Monitor.Health/Prometheus\u003c/\u003e\n"}
+{"Timestamp":"2026-07-21 14:26:53.783023339 +0000 UTC","Level":"DEFAULT","Message":"server_monitoring: Finished collecting Server.Monitor.Health/Prometheus\n"}
+{"Timestamp":"2026-07-21 14:26:53.783810339 +0000 UTC","Level":"DEBUG","Message":"Query Stats: {\"RowsScanned\":1,\"PluginsCalled\":1,\"FunctionsCalled\":1,\"ProtocolSearch\":0,\"ScopeCopy\":3}\n"}
+{"Timestamp":"2026-07-21 14:27:05.928986302 +0000 UTC","Level":"DEFAULT","Message":"server_monitoring: Collecting \u003cgreen\u003eServer.Monitor.Health/Prometheus\u003c/\u003e\n"}
+{"Timestamp":"2026-07-21 14:27:05.941083354 +0000 UTC","Level":"DEFAULT","Message":"server_monitoring: Finished collecting Server.Monitor.Health/Prometheus\n"}
+{"Timestamp":"2026-07-21 14:27:05.941519196 +0000 UTC","Level":"DEBUG","Message":"Query Stats: {\"RowsScanned\":1,\"PluginsCalled\":1,\"FunctionsCalled\":1,\"ProtocolSearch\":0,\"ScopeCopy\":3}\n"}
+{"Timestamp":"2026-07-21 14:27:26.527278634 +0000 UTC","Level":"DEFAULT","Message":"Time 1290: Server.Monitor.Health/Prometheus: Waiting for rows.\n"}
+{"Timestamp":"2026-07-21 14:28:22.988173337 +0000 UTC","Level":"DEFAULT","Message":"server_monitoring: Collecting \u003cgreen\u003eServer.Monitor.Health/Prometheus\u003c/\u003e\n"}
+{"Timestamp":"2026-07-21 14:28:23.009077654 +0000 UTC","Level":"DEFAULT","Message":"server_monitoring: Finished collecting Server.Monitor.Health/Prometheus\n"}
+{"Timestamp":"2026-07-21 14:28:23.009473709 +0000 UTC","Level":"DEBUG","Message":"Query Stats: {\"RowsScanned\":1,\"PluginsCalled\":1,\"FunctionsCalled\":1,\"ProtocolSearch\":0,\"ScopeCopy\":3}\n"}
+{"Timestamp":"2026-07-21 14:28:38.966319477 +0000 UTC","Level":"DEFAULT","Message":"server_monitoring: Collecting \u003cgreen\u003eServer.Monitor.Health/Prometheus\u003c/\u003e\n"}
+{"Timestamp":"2026-07-21 14:28:38.97964441 +0000 UTC","Level":"DEFAULT","Message":"server_monitoring: Finished collecting Server.Monitor.Health/Prometheus\n"}
+{"Timestamp":"2026-07-21 14:28:38.981448699 +0000 UTC","Level":"DEBUG","Message":"Query Stats: {\"RowsScanned\":1,\"PluginsCalled\":1,\"FunctionsCalled\":1,\"ProtocolSearch\":0,\"ScopeCopy\":3}\n"}
+{"Timestamp":"2026-07-21 14:29:46.573216387 +0000 UTC","Level":"DEFAULT","Message":"Time 1430: Server.Monitor.Health/Prometheus: Waiting for rows.\n"}
+{"Timestamp":"2026-07-21 14:31:49.314961213 +0000 UTC","Level":"DEFAULT","Message":"Time 1553: Server.Monitor.Health/Prometheus: Waiting for rows.\n"}
+{"Timestamp":"2026-07-21 14:34:11.734465042 +0000 UTC","Level":"DEFAULT","Message":"Time 1695: Server.Monitor.Health/Prometheus: Waiting for rows.\n"}
+{"Timestamp":"2026-07-21 14:36:12.858723051 +0000 UTC","Level":"DEFAULT","Message":"Time 1816: Server.Monitor.Health/Prometheus: Waiting for rows.\n"}
+{"Timestamp":"2026-07-21 14:37:18.944539181 +0000 UTC","Level":"DEFAULT","Message":"server_monitoring: Finished collecting Server.Monitor.Health/Prometheus\n"}
+{"Timestamp":"2026-07-21 14:37:18.945118791 +0000 UTC","Level":"DEBUG","Message":"Query Stats: {\"RowsScanned\":1,\"PluginsCalled\":1,\"FunctionsCalled\":1,\"ProtocolSearch\":0,\"ScopeCopy\":3}\n"}
+{"Timestamp":"2026-07-21 14:38:51.898772191 +0000 UTC","Level":"DEFAULT","Message":"server_monitoring: Collecting \u003cgreen\u003eServer.Monitor.Health/Prometheus\u003c/\u003e\n"}
+{"Timestamp":"2026-07-21 14:40:56.413397951 +0000 UTC","Level":"DEFAULT","Message":"Time 124: Server.Monitor.Health/Prometheus: Waiting for rows.\n"}
+{"Timestamp":"2026-07-21 14:43:18.468699791 +0000 UTC","Level":"DEFAULT","Message":"Time 266: Server.Monitor.Health/Prometheus: Waiting for rows.\n"}
+{"Timestamp":"2026-07-21 14:45:34.932298293 +0000 UTC","Level":"DEFAULT","Message":"Time 403: Server.Monitor.Health/Prometheus: Waiting for rows.\n"}
+{"Timestamp":"2026-07-21 14:47:57.379264619 +0000 UTC","Level":"DEFAULT","Message":"Time 545: Server.Monitor.Health/Prometheus: Waiting for rows.\n"}
+{"Timestamp":"2026-07-21 14:50:19.831549257 +0000 UTC","Level":"DEFAULT","Message":"Time 687: Server.Monitor.Health/Prometheus: Waiting for rows.\n"}
+{"Timestamp":"2026-07-21 14:52:37.491227978 +0000 UTC","Level":"DEFAULT","Message":"Time 825: Server.Monitor.Health/Prometheus: Waiting for rows.\n"}
+{"Timestamp":"2026-07-21 14:54:58.738564634 +0000 UTC","Level":"DEFAULT","Message":"Time 966: Server.Monitor.Health/Prometheus: Waiting for rows.\n"}
+{"Timestamp":"2026-07-21 14:57:05.597834278 +0000 UTC","Level":"DEFAULT","Message":"Time 1093: Server.Monitor.Health/Prometheus: Waiting for rows.\n"}
+{"Timestamp":"2026-07-21 14:59:07.138776627 +0000 UTC","Level":"DEFAULT","Message":"Time 1215: Server.Monitor.Health/Prometheus: Waiting for rows.\n"}
+{"Timestamp":"2026-07-21 15:01:16.833501456 +0000 UTC","Level":"DEFAULT","Message":"Time 1344: Server.Monitor.Health/Prometheus: Waiting for rows.\n"}
+{"Timestamp":"2026-07-21 15:03:21.564316004 +0000 UTC","Level":"DEFAULT","Message":"Time 1469: Server.Monitor.Health/Prometheus: Waiting for rows.\n"}
